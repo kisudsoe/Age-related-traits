@@ -1,0 +1,650 @@
+Ref	Traits	MeSH_Term	MeSH_ID	MeSH_Tree	MeSH_Cat	MeSH_Group	MeSH_Anatomy	MeSH_Anatomy_Category	Ref-Category	Note
+Kim 2021	Acute coronary syndrome	Acute Coronary Syndrome	D054058	C14.280.647.124	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=EFO_0005672; Phecode=-
+Kim 2021	Acute renal failure	Acute Kidney Injury	D058186	C12.777.419.780.050	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=585.1
+Kim 2021	Lung adenocarcinoma	Adenocarcinoma of Lung	D000077192	C04.557.470.200.025.022	Disease	Neoplasms	Lung	Respiratory System	Neoplasms	GWAS=EFO_0000571; Phecode=-
+Johnson 2015	Adiponectin measurement	Adiponectin	D052242	D06.472.699.042.249	Chemical	Chemical	Serum	Fluids and Secretions	-	GWAS=EFO_0004502; Phecode=-
+Kim 2021	Alzheimer's disease	Alzheimer Disease	D000544	C10.228.140.380.100	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=EFO_0000249; Phecode=290.11
+Chang 2019	Alzheimer's disease and other dementias	Alzheimer Disease	D000544	C10.228.140.380.100	Disease	Nervous System Diseases	Brain	Nervous System	Neurological disorders	-
+Kim 2021	Late-onset Alzheimers disease	Alzheimer Disease	D000544	C10.228.140.380.100	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=EFO_1001870; Phecode=-
+Kim 2021	Beta-amyloid 1-42 measurement	Amyloid beta-Peptides	D016229	D12.644.024	Disease	"Amino Acids, Peptides, and Proteins"	Brain	Nervous System	"Amino Acids, Peptides, and Proteins"	GWAS=EFO_0004670; Phecode=-
+Johnson 2015	Amyotrophic lateral sclerosis	Amyotrophic Lateral Sclerosis	D000690	C10.228.854.139	Disease	Nervous System Diseases	Brain	Nervous System	-	GWAS=EFO_0000253; Phecode=-
+Donertas 2020	Anaemia	Anemia	D000740	C15.378.071	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	haematology/dermatology	Age-of-onset Cluster=2; -
+Kim 2021	Anemia in chronic kidney disease	Anemia	D000740	C15.378.071	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	Hemic and Lymphatic Diseases	GWAS=-; Phecode=285.21
+Kim 2021	Anemia in neoplastic disease	Anemia	D000740	C15.378.071	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	Hemic and Lymphatic Diseases	GWAS=-; Phecode=285.22
+Kim 2021	Anemia of chronic disease	Anemia	D000740	C15.378.071	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	Hemic and Lymphatic Diseases	GWAS=-; Phecode=285.2
+Donertas 2020	Iron deficiency anaemia	Anemia	D000740	C15.378.071	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	haematology/dermatology	Age-of-onset Cluster=2; -
+Kim 2021	Other anemias	Anemia	D000740	C15.378.071	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	Hemic and Lymphatic Diseases	GWAS=-; Phecode=285
+Kim 2021	Aneurysm and dissection of heart	Aneurysm	D000783	C14.907.055	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=411.41
+Kim 2021	Aneurysm of artery of lower extremity	Aneurysm	D000783	C14.907.055	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=442.3
+Kim 2021	Aneurysm of other specified artery	Aneurysm	D000783	C14.907.055	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=442.8
+Kim 2021	Other aneurysm	Aneurysm	D000783	C14.907.055	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=442
+Donertas 2020	Angina	Angina Pectoris	D000787	C14.280.647.187	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	cardiovascular	Age-of-onset Cluster=1; -
+Kim 2021	Angina pectoris	Angina Pectoris	D000787	C14.280.647.187	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=411.3
+Kim 2021	Unstable angina (intermediate coronary syndrome)	"Angina, Unstable"	D000789	C14.280.647.187.150	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=411.1
+Kim 2021	Stiffness of joint	Ankle Joint	D000843	A02.835.583.378.062	Anatomy	Anatomy	Joints	Musculoskeletal System	Anatomy	GWAS=-; Phecode=741.2
+Chang 2019	Coal worker pneumoconiosis	Anthracosis	D055008	C08.381.483.581.062	Disease	Respiratory Tract Diseases	Lung	Respiratory System	Chronic respiratory diseases	-
+Donertas 2020	Anxiety/panic attacks	Anxiety	D001007	F01.470.132	Psychiatry	Psychiatry	Brain	Nervous System	neurology/eye/psychiatry	Age-of-onset Cluster=2; -
+Kim 2021	Aortic aneurysm	Aortic Aneurysm	D001014	C14.907.055.239	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=442.1
+Kim 2021	Abdominal aortic aneurysm	"Aortic Aneurysm, Abdominal"	D017544	C14.907.055.239.075	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=HP_0002619; Phecode=442.11
+Kim 2021	Apnea	Apnea	D001049	C08.618.085	Disease	Respiratory Tract Diseases	Respiratory System	Respiratory System	Respiratory Tract Diseases	GWAS=-; Phecode=513.31
+Kim 2021	Abnormal electrocardiogram	"Arrhythmias, Cardiac"	D001145	C14.280.067	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=426.7
+Kim 2021	Abnormal heart sounds	"Arrhythmias, Cardiac"	D001145	C14.280.067	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=396
+Kim 2021	Atrial fibrillation & flutter	"Arrhythmias, Cardiac"	D001145	C14.280.067	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=427.2
+Chang 2019	Atrial fibrillation and flutter	"Arrhythmias, Cardiac"	D001145	C14.280.067	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular diseases	-
+Kim 2021	Cardiac arrhythmia NOS	"Arrhythmias, Cardiac"	D001145	C14.280.067	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=427.5
+Donertas 2020	Heart arrhythmia	"Arrhythmias, Cardiac"	D001145	C14.280.067	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	cardiovascular	Age-of-onset Cluster=1; -
+Kim 2021	Occlusion and stenosis of precerebral arteries	Arterial Occlusive Diseases	D001157	C14.907.137	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=433.1
+Kim 2021	Arteritis NOS	Arteritis	D001167	C14.907.940.090	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=446.9
+Donertas 2020	Arthritis (nos)	Arthritis	D001168	C05.550.114	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	musculoskeletal/trauma	Age-of-onset Cluster=2; -
+Kim 2021	Unspecified monoarthritis	Arthritis	D001168	C05.550.114	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=716.2
+Kim 2021	Gouty arthropathy	"Arthritis, Gouty"	D015210	C05.550.114.423.410	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=274.11
+Kim 2021	Pyogenic arthritis	"Arthritis, Infectious"	D001170	C01.100	Disease	Infections	Joints	Musculoskeletal System	Infections	GWAS=-; Phecode=711.1
+Kim 2021	Psoriatic arthritis	"Arthritis, Psoriatic"	D015535	C05.116.900.853.625.800.424	Disease	Musculoskeletal Diseases	Skin	Integumentary System	Musculoskeletal Diseases	GWAS=EFO_0003778; Phecode=-
+Johnson 2015	Rheumatoid arthritis	"Arthritis, Rheumatoid"	D001172	C05.550.114.154	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	-	GWAS=EFO_0000685; Phecode=714.1
+Donertas 2020	Rheumatoid arthritis	"Arthritis, Rheumatoid"	D001172	C05.550.114.154	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	musculoskeletal/trauma	Age-of-onset Cluster=2; -
+Kim 2021	Rheumatoid arthritis & related inflammatory polyarthropathies	"Arthritis, Rheumatoid"	D001172	C05.550.114.154	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=714
+Kim 2021	Unspecified polyarthropathy or polyarthritis	"Arthritis, Rheumatoid"	D001172	C05.550.114.154	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=716.1
+Chang 2019	Asbestosis	Asbestosis	D001195	C08.381.483.581.125	Disease	Respiratory Tract Diseases	Lung	Respiratory System	Chronic respiratory diseases	-
+Kim 2021	Atherosclerosis	Atherosclerosis	D050197	C14.907.137.126.307	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=440
+Kim 2021	Atherosclerosis of aorta	Atherosclerosis	D050197	C14.907.137.126.307	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=440.9
+Kim 2021	Atherosclerosis of native arteries of the extremities with intermittent claudication	Atherosclerosis	D050197	C14.907.137.126.307	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=440.22
+Kim 2021	Atherosclerosis of native arteries of the extremities with ulceration or gangrene	Atherosclerosis	D050197	C14.907.137.126.307	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=440.21
+Kim 2021	Atherosclerosis of renal artery	Atherosclerosis	D050197	C14.907.137.126.307	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=440.1
+Kim 2021	Atherosclerosis of the extremities	Atherosclerosis	D050197	C14.907.137.126.307	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=440.2
+Donertas 2020	Atrial fibrillation	Atrial Fibrillation	D001281	C14.280.067.198	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	cardiovascular	Age-of-onset Cluster=1; -
+Kim 2021	Atrial fibrillation	Atrial Fibrillation	D001281	C14.280.067.198	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=EFO_0000275; Phecode=427.21
+Kim 2021	Supraventricular premature beats	Atrial Premature Complexes	D018880	C14.280.067.325.250	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=427.61
+Kim 2021	First degree AV block	Atrioventricular Block	D054537	C14.280.067.558.230	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=426.21
+Kim 2021	Second degree AV block	Atrioventricular Block	D054537	C14.280.067.558.230	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=426.23
+Kim 2021	Peripheral autonomic neuropathy	Autonomic Nervous System Diseases	D001342	C10.177	Disease	Nervous System Diseases	Peripheral Nerves	Nervous System	Nervous System Diseases	GWAS=-; Phecode=337.1
+Donertas 2020	Back pain	Back Pain	D001416	C23.888.592.612.107	Disease	"Pathological Conditions, Signs and Symptoms"	Unspecified	Unspecified	musculoskeletal/trauma	Age-of-onset Cluster=2; -
+Kim 2021	Back pain	Back Pain	D001416	C23.888.592.612.107	Disease	"Pathological Conditions, Signs and Symptoms"	Unspecified	Unspecified	"Pathological Conditions, Signs and Symptoms"	GWAS=HP_0003418; Phecode=760
+Donertas 2020	Back problem	Back Pain	D001416	C23.888.592.612.107	Disease	"Pathological Conditions, Signs and Symptoms"	Unspecified	Unspecified	musculoskeletal/trauma	Age-of-onset Cluster=2; -
+Kim 2021	Barrett's esophagus	Barrett Esophagus	D001471	C04.834.154	Disease	Neoplasms	Esophagus	Digestive System	Neoplasms	GWAS=EFO_0000280; Phecode=530.13
+Kim 2021	Extrapyramidal disease and abnormal movement disorders	Basal Ganglia Diseases	D001480	C10.228.140.079	Disease	Nervous System Diseases	Unspecified	Unspecified	Nervous System Diseases	GWAS=-; Phecode=333
+Kim 2021	"Abnormal tumor markers, elevated CEA or CA 125"	"Biomarkers, Tumor"	D014408	D23.101.140	Chemical	Chemical	Serum	Fluids and Secretions	Chemical	GWAS=-; Phecode=795.8
+Kim 2021	Blindness and low vision	Blindness	D001766	C10.597.751.941.162	Disease	Nervous System Diseases	Eye	Sense Organs	Nervous System Diseases	GWAS=-; Phecode=367.9
+Chang 2019	Other vision loss	Blindness	D001766	C10.597.751.941.162	Disease	Nervous System Diseases	Eye	Sense Organs	Sense organ diseases	Not-equivalent
+Johnson 2015	Fasting blood glucose measurement	Blood Glucose	D001786	D09.947.875.359.448.500	Chemical	Chemical	Serum	Fluids and Secretions	-	GWAS=EFO_0004465; Phecode=-
+Johnson 2015	Blood pressure	Blood Pressure	D001794	E01.370.600.875.249	Diagnosis	Diagnosis	Blood	Hemic and Immune Systems	-	GWAS=EFO_0004325; Phecode=-
+Johnson 2015	Diastolic blood pressure	Blood Pressure	D001794	E01.370.600.875.249	Diagnosis	Diagnosis	Blood	Hemic and Immune Systems	-	GWAS=EFO_0006336; Phecode=-
+Johnson 2015	Systolic blood pressure	Blood Pressure	D001794	E01.370.600.875.249	Diagnosis	Diagnosis	Blood	Hemic and Immune Systems	-	GWAS=EFO_0006335; Phecode=-
+Johnson 2015	Body mass index	Body Mass Index	D015992	E01.370.600.115.100.125	Diagnosis	Diagnosis	Unspecified	Unspecified	-	GWAS=EFO_0004340; Phecode=-
+Johnson 2015	Bone density	Bone Density	D015519	G11.427.100	Phenomena	Phenomena	Bone and Bones	Musculoskeletal System	-	GWAS=EFO_0003923; Phecode=-
+Johnson 2015	Femoral neck bone mineral density	Bone Density	D015519	G11.427.100	Phenomena	Phenomena	Bone and Bones	Musculoskeletal System	-	GWAS=EFO_0007785; Phecode=-
+Johnson 2015	Heel bone mineral density	Bone Density	D015519	G11.427.100	Phenomena	Phenomena	Bone and Bones	Musculoskeletal System	-	GWAS=EFO_0009270; Phecode=-
+Johnson 2015	Hip bone mineral density	Bone Density	D015519	G11.427.100	Phenomena	Phenomena	Bone and Bones	Musculoskeletal System	-	GWAS=EFO_0007702; Phecode=-
+Johnson 2015	Radius bone mineral density	Bone Density	D015519	G11.427.100	Phenomena	Phenomena	Bone and Bones	Musculoskeletal System	-	GWAS=EFO_0007933; Phecode=-
+Johnson 2015	Spine bone mineral density	Bone Density	D015519	G11.427.100	Phenomena	Phenomena	Bone and Bones	Musculoskeletal System	-	GWAS=EFO_0007701; Phecode=-
+Johnson 2015	Volumetric bone mineral density	Bone Density	D015519	G11.427.100	Phenomena	Phenomena	Bone and Bones	Musculoskeletal System	-	GWAS=EFO_0007620; Phecode=-
+Donertas 2020	Bone disorder	"Bone Diseases, Metabolic"	D001851	C05.116.198	Disease	Musculoskeletal Diseases	Bone and Bones	Musculoskeletal System	musculoskeletal/trauma	Age-of-onset Cluster=1; -
+Kim 2021	Osteopenia	"Bone Diseases, Metabolic"	D001851	C05.116.198	Disease	Musculoskeletal Diseases	Bone and Bones	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=743.9
+Kim 2021	Secondary malignancy of bone	Bone Neoplasm	D001859	C04.588.149	Disease	Neoplasms	Bone and Bones	Musculoskeletal System	Neoplasms	GWAS=-; Phecode=198.6
+Kim 2021	"Abnormal findings on study of brain, nervous system"	Brain	D001921	A08.186.211	Anatomy	Anatomy	Brain	Nervous System	Anatomy	GWAS=-; Phecode=346
+Kim 2021	Other cerebral degenerations	Brain Diseases	D001927	C10.228.140	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=-; Phecode=331
+Kim 2021	Cerebral ischemia	Brain Ischemia	D002545	C10.228.140.300.150	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=-; Phecode=433.3
+Chang 2019	Brain and nervous system cancer	Brain Neoplasms	D001932	C04.588.614.250.195	Disease	Neoplasms	Brain	Nervous System	Neoplasms	-
+Kim 2021	Brain cancer	Brain Neoplasms	D001932	C04.588.614.250.195	Disease	Neoplasms	Brain	Nervous System	Neoplasms	GWAS=-; Phecode=191.11
+Kim 2021	Acquired absence of breast	Breast	D001940	A01.236	Anatomy	Anatomy	Breast	Body Regions	Anatomy	GWAS=-; Phecode=175
+Kim 2021	Lump or mass in breast	Breast	D001940	A01.236	Anatomy	Anatomy	Breast	Body Regions	Anatomy	GWAS=-; Phecode=611.3
+Kim 2021	Mammographic microcalcification	Breast Diseases	D001941	C17.800.090	Disease	Skin and Connective Tissue Diseases	Breast	Body Regions	Skin and Connective Tissue Diseases	GWAS=-; Phecode=611.11
+Kim 2021	Breast cancer	Breast Neoplasms	D001943	C04.588.180	Disease	Neoplasms	Breast	Body Regions	Neoplasms	GWAS=-; Phecode=174
+Chang 2019	Breast cancer	Breast Neoplasms	D001943	C04.588.180	Disease	Neoplasms	Breast	Body Regions	Neoplasms	-
+Kim 2021	"Breast cancer, including in situ"	Breast Neoplasms	D001943	C04.588.180	Disease	Neoplasms	Breast	Body Regions	Neoplasms	GWAS=-; Phecode=174.1
+Kim 2021	Breast carcinoma	Breast Neoplasms	D001943	C04.588.180	Disease	Neoplasms	Breast	Body Regions	Neoplasms	GWAS=EFO_0000305; Phecode=-
+Kim 2021	Estrogen-receptor negative breast cancer	Breast Neoplasms	D001943	C04.588.180	Disease	Neoplasms	Breast	Body Regions	Neoplasms	GWAS=EFO_1000650; Phecode=-
+Kim 2021	Estrogen-receptor positive breast cancer	Breast Neoplasms	D001943	C04.588.180	Disease	Neoplasms	Breast	Body Regions	Neoplasms	GWAS=EFO_1000649; Phecode=-
+Kim 2021	Bronchiectasis	Bronchiectasis	D001987	C08.127.384	Disease	Respiratory Tract Diseases	Lung	Respiratory System	Respiratory Tract Diseases	GWAS=-; Phecode=496.3
+Kim 2021	Bundle branch block	Bundle-Branch Block	D002037	C14.280.067.558.323	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=426.3
+Kim 2021	Left bundle branch block	Bundle-Branch Block	D002037	C14.280.067.558.323	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=426.32
+Kim 2021	Right bundle branch block	Bundle-Branch Block	D002037	C14.280.067.558.323	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=426.31
+Kim 2021	Bursitis	Bursitis	D002062	C05.550.251	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=726.3
+Kim 2021	Cachexia	Cachexia	D002100	C23.888.144.243.963.500.500	Disease	"Pathological Conditions, Signs and Symptoms"	"Muscle, Skeletal"	Musculoskeletal System	"Pathological Conditions, Signs and Symptoms"	GWAS=-; Phecode=260.1
+Kim 2021	Corns and callosities	Callosities	D002145	C17.800.428.200	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	Skin and Connective Tissue Diseases	GWAS=-; Phecode=700
+Kim 2021	Basal cell carcinoma	"Carcinoma, Basal Cell"	D002280	C04.557.470.200.165	Disease	Neoplasms	Skin	Integumentary System	Neoplasms	GWAS=EFO_0004193; Phecode=-
+Kim 2021	Hepatocellular carcinoma	"Carcinoma, Hepatocellular"	D006528	C04.557.470.200.025.255	Disease	Neoplasms	Liver	Digestive System	Neoplasms	GWAS=EFO_0000182; Phecode=-
+Kim 2021	Secondary malignant neoplasm of liver	"Carcinoma, Hepatocellular"	D006528	C04.557.470.200.025.255	Disease	Neoplasms	Liver	Digestive System	Neoplasms	GWAS=-; Phecode=198.4
+Kim 2021	Non-Small cell lung carcinoma	"Carcinoma, Non-Small-Cell Lung"	D002289	C04.588.894.797.520.109.220.249	Disease	Neoplasms	Lung	Respiratory System	Neoplasms	GWAS=EFO_0003060; Phecode=-
+Kim 2021	Renal cell carcinoma	"Carcinoma, Renal Cell"	D002292	C04.557.470.200.025.390	Disease	Neoplasms	Kidney	Urogenital System	Neoplasms	GWAS=EFO_0000681; Phecode=189.11
+Kim 2021	Keratinocyte carcinoma	"Carcinoma, Squamous Cell"	D002294	C04.557.470.200.400	Disease	Neoplasms	Skin	Integumentary System	Neoplasms	GWAS=EFO_0010176; Phecode=-
+Kim 2021	Squamous cell carcinoma	"Carcinoma, Squamous Cell"	D002294	C04.557.470.200.400	Disease	Neoplasms	Skin	Integumentary System	Neoplasms	GWAS=EFO_0000707; Phecode=-
+Kim 2021	Other cardiac conduction disorders	Cardiac Conduction System Disease	D000075224	C14.280.123	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=426.8
+Kim 2021	Cardiomegaly	Cardiomegaly	D006332	C14.280.195	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=416
+Kim 2021	Cardiomyopathy	Cardiomyopathies	D009202	C14.280.238	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=425
+Chang 2019	Other cardiomyopathy	Cardiomyopathies	D009202	C14.280.238	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular diseases	-
+Kim 2021	Primary/Intrinsic cardiomyopathies	Cardiomyopathies	D009202	C14.280.238	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=425.1
+Kim 2021	Secondary/Extrinsic cardiomyopathies	Cardiomyopathies	D009202	C14.280.238	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=425.2
+Kim 2021	Idiopathic dilated cardiomyopathy	"Cardiomyopathy, Dilated"	D002311	C14.280.195.160	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=EFO_0009094; Phecode=-
+Kim 2021	Abnormal function study of cardiovascular system	Cardiovascular Diseases	D002318	C14	Disease	Cardiovascular Diseases	Cardiovascular System	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=429.2
+Donertas 2020	Cardiovascular	Cardiovascular Diseases	D002318	C14	Disease	Cardiovascular Diseases	Cardiovascular System	Cardiovascular System	cardiovascular	Age-of-onset Cluster=1; -
+Kim 2021	Cardiovascular disease	Cardiovascular Diseases	D002318	C14	Disease	Cardiovascular Diseases	Cardiovascular System	Cardiovascular System	Cardiovascular Diseases	GWAS=EFO_0000319; Phecode=-
+Kim 2021	Circulatory disease NEC	Cardiovascular Diseases	D002318	C14	Disease	Cardiovascular Diseases	Cardiovascular System	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=459.9
+Chang 2019	Other cardiovascular and circulatory diseases	Cardiovascular Diseases	D002318	C14	Disease	Cardiovascular Diseases	Cardiovascular System	Cardiovascular System	Cardiovascular diseases	-
+Kim 2021	Other disorders of circulatory system	Cardiovascular Diseases	D002318	C14	Disease	Cardiovascular Diseases	Cardiovascular System	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=459
+Kim 2021	Cataract	Cataract	D002386	C11.510.245	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=EFO_0001059; Phecode=366
+Donertas 2020	Cataract	Cataract	D002386	C11.510.245	Disease	Eye Diseases	Eye	Sense Organs	neurology/eye/psychiatry	Age-of-onset Cluster=1; -
+Chang 2019	Cataract	Cataract	D002386	C11.510.245	Disease	Eye Diseases	Eye	Sense Organs	Sense organ diseases	-
+Kim 2021	Nonsenile Cataract	Cataract	D002386	C11.510.245	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=366.1
+Chang 2019	Cellulitis	Cellulitis	D002481	C01.800.130	Disease	Infections	Skin	Integumentary System	Skin and subcutaneous diseases	-
+Kim 2021	Cancer of brain and nervous system	Central Nervous System Neoplasms	D016543	C04.588.614.250	Disease	Neoplasms	Brain	Nervous System	Neoplasms	GWAS=-; Phecode=191.1
+Kim 2021	Malignant neoplasm of brain and nervous system	Central Nervous System Neoplasms	D016543	C04.588.614.250	Disease	Neoplasms	Brain	Nervous System	Neoplasms	GWAS=-; Phecode=191
+Kim 2021	Secondary malignancy of brain/spine	Central Nervous System Neoplasms	D016543	C04.588.614.250	Disease	Neoplasms	Brain	Nervous System	Neoplasms	GWAS=-; Phecode=198.5
+Chang 2019	Intracerebral haemorrhage	Cerebral Hemorrhage	D002543	C10.228.140.300.535.200	Disease	Nervous System Diseases	Brain	Nervous System	Cardiovascular diseases	-
+Kim 2021	Intracerebral hemorrhage	Cerebral Hemorrhage	D002543	C10.228.140.300.535.200	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=EFO_0005669; Phecode=430.2
+Kim 2021	Non-Lobar intracerebral hemorrhage	Cerebral Hemorrhage	D002543	C10.228.140.300.535.200	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=EFO_0010178; Phecode=-
+Kim 2021	"Occlusion of cerebral arteries, with cerebral infarction"	Cerebral Infarction	D002544	C10.228.140.300.150.477.200	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=-; Phecode=433.11
+Kim 2021	"Acute, but ill-defined cerebrovascular disease"	Cerebrovascular Disorders	D002561	C10.228.140.300	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=-; Phecode=433.6
+Donertas 2020	Cerebrovascular disease	Cerebrovascular Disorders	D002561	C10.228.140.300	Disease	Nervous System Diseases	Brain	Nervous System	cardiovascular	Age-of-onset Cluster=1; -
+Kim 2021	Cerebrovascular disease	Cerebrovascular Disorders	D002561	C10.228.140.300	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=-; Phecode=433
+Kim 2021	Late effects of cerebrovascular disease	Cerebrovascular Disorders	D002561	C10.228.140.300	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=-; Phecode=433.8
+Kim 2021	Occlusion of cerebral arteries	Cerebrovascular Disorders	D002561	C10.228.140.300	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=-; Phecode=433.2
+Kim 2021	Cervical intraepithelial neoplasia (Cervical dysplasia)	Cervical Intraepithelial Neoplasia	D018290	C04.557.470.200.240.250	Disease	Neoplasms	Cervix Uteri	Urogenital System	Neoplasms	GWAS=-; Phecode=180.3
+Johnson 2015	HDL cholesterol change measurement	"Cholesterol, HDL"	D008076	D04.210.500.247.808.197.238	Chemical	Chemical	Serum	Fluids and Secretions	-	GWAS=EFO_0007805; Phecode=-
+Johnson 2015	High density lipoprotein cholesterol measurement	"Cholesterol, HDL"	D008076	D04.210.500.247.808.197.238	Chemical	Chemical	Serum	Fluids and Secretions	-	GWAS=EFO_0004612; Phecode=-
+Johnson 2015	LDL cholesterol change measurement	"Cholesterol, LDL"	D008078	D04.210.500.247.808.197.244	Chemical	Chemical	Serum	Fluids and Secretions	-	GWAS=EFO_0007804; Phecode=-
+Johnson 2015	Low density lipoprotein cholesterol measurement	"Cholesterol, LDL"	D008078	D04.210.500.247.808.197.244	Chemical	Chemical	Serum	Fluids and Secretions	-	GWAS=EFO_0004611; Phecode=-
+Kim 2021	Chondrocalcinosis	Chondrocalcinosis	D002805	C05.550.114.264	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=274.21
+Kim 2021	Choroidal degenerations	Choroid Diseases	D015862	C11.941.160	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=363.4
+Kim 2021	Memory performance	Cognition	D003071	F02.463.188	Psychiatry	Psychiatry	Brain	Nervous System	Psychiatry	GWAS=EFO_0004874; Phecode=-
+Kim 2021	Cognitive decline measurement	Cognitive Dysfunction	D060825	F03.615.250.700	Psychiatry	Psychiatry	Brain	Nervous System	Psychiatry	GWAS=EFO_0007710; Phecode=-
+Kim 2021	Cognitive impairment	Cognitive Dysfunction	D060825	F03.615.250.700	Psychiatry	Psychiatry	Brain	Nervous System	Psychiatry	GWAS=HP_0100543; Phecode=-
+Kim 2021	Cognitive impairment measurement	Cognitive Dysfunction	D060825	F03.615.250.700	Psychiatry	Psychiatry	Brain	Nervous System	Psychiatry	GWAS=EFO_0007998; Phecode=-
+Kim 2021	Mild cognitive impairment	Cognitive Dysfunction	D060825	F03.615.250.700	Psychiatry	Psychiatry	Brain	Nervous System	Psychiatry	GWAS=-; Phecode=292.2
+Donertas 2020	Psychological/psychiatric problem	Cognitive Dysfunction	D060825	F03.615.250.700	Psychiatry	Psychiatry	Brain	Nervous System	neurology/eye/psychiatry	Age-of-onset Cluster=2; Not-equivalent
+Kim 2021	Angiodysplasia of intestine	Colonic Diseases	D003108	C06.405.469.158	Disease	Digestive System Diseases	Intestines	Digestive System	Digestive System Diseases	GWAS=-; Phecode=556.11
+Chang 2019	Colon and rectum cancer	Colonic Neoplasms	D003110	C04.588.274.476.411.307.180	Disease	Neoplasms	Colon	Digestive System	Neoplasms	-
+Kim 2021	Colon cancer	Colonic Neoplasms	D003110	C04.588.274.476.411.307.180	Disease	Neoplasms	Colon	Digestive System	Neoplasms	GWAS=-; Phecode=153.2
+Kim 2021	Colorectal cancer	Colorectal Neoplasms	D015179	C04.588.274.476.411.307	Disease	Neoplasms	Colon	Digestive System	Neoplasms	GWAS=EFO_0005842; Phecode=153
+Donertas 2020	Connective tissue disorder	Connective Tissue Diseases	D003240	C17.300	Disease	Skin and Connective Tissue Diseases	Connective Tissue	Connective Tissue	immunological/systemic disorders	Age-of-onset Cluster=1; -
+Kim 2021	Disorders of cornea	Corneal Diseases	D003316	C11.204	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=364
+Kim 2021	Corneal degenerations	"Corneal Dystrophies, Hereditary"	D003317	C11.204.236	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=364.4
+Kim 2021	Corneal dystrophy	"Corneal Dystrophies, Hereditary"	D003317	C11.204.236	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=364.5
+Kim 2021	Corneal edema	Corneal Edema	D015715	C11.204.267	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=364.2
+Kim 2021	Coronary artery disease	Coronary Artery Disease	D003324	C14.280.647.250.260	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=EFO_0000378; Phecode=-
+Kim 2021	Coronary atherosclerosis	Coronary Artery Disease	D003324	C14.280.647.250.260	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=411.4
+Johnson 2015	Coronary heart disease	Coronary Disease	D003327	C14.280.647.250	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	GWAS=EFO_0001645; Phecode=-
+Johnson 2015	C-reactive protein measurement	C-Reactive Protein	D002097	D12.776.034.145	Chemical	Chemical	Serum	Fluids and Secretions	-	GWAS=EFO_0004458; Phecode=-
+Kim 2021	Elevated C-reactive protein	C-Reactive Protein	D002097	D12.776.034.145	Chemical	Chemical	Serum	Fluids and Secretions	Chemical	GWAS=-; Phecode=790.8
+Kim 2021	"Cyst of kidney, acquired"	Cysts	D003560	C04.182	Disease	Neoplasms	Kidney	Urogenital System	Neoplasms	GWAS=-; Phecode=586.2
+Kim 2021	Sudden cardiac arrest	"Death, Sudden, Cardiac"	D016757	C14.280.383.220	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=EFO_0004278; Phecode=-
+Kim 2021	Dysphagia	Deglutition Disorders	D003680	C06.405.117.119	Disease	Digestive System Diseases	Esophagus	Digestive System	Digestive System Diseases	GWAS=HP_0002015; Phecode=532
+Kim 2021	Dementia	Dementia	D003704	C10.228.140.380	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=HP_0000726; Phecode=-
+Kim 2021	Dementia with cerebral degenerations	Dementia	D003704	C10.228.140.380	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=-; Phecode=290.12
+Kim 2021	Dementias	Dementia	D003704	C10.228.140.380	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=-; Phecode=290.1
+Kim 2021	Senile dementia	Dementia	D003704	C10.228.140.380	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=-; Phecode=290.13
+Kim 2021	Vascular dementia	"Dementia, Vascular"	D015140	C10.228.140.300.400	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=EFO_0004718; Phecode=290.16
+Donertas 2020	Depression	Depression	D003863	F01.145.126.350	Disease	Behavior and Behavior Mechanisms	Brain	Nervous System	neurology/eye/psychiatry	Age-of-onset Cluster=2; -
+Chang 2019	Fungal skin diseases	Dermatomycoses	D003881	C01.150.703.302	Disease	Infections	Skin	Integumentary System	Skin and subcutaneous diseases	-
+Kim 2021	Type 2 diabetic peripheral circulatory disorders	Diabetes Complications	D048909	C19.246.099	Disease	Endocrine System Diseases	Serum	Fluids and Secretions	Endocrine System Diseases	GWAS=-; Phecode=250.25
+Donertas 2020	Diabetes	Diabetes Mellitus	D003920	C18.452.394.750	Disease	Nutritional and Metabolic Diseases	Pancreas	Digestive System	endocrine/diabetes	Age-of-onset Cluster=1; -
+Kim 2021	Diabetes mellitus	Diabetes Mellitus	D003920	C18.452.394.750	Disease	Nutritional and Metabolic Diseases	Pancreas	Digestive System	Nutritional and Metabolic Diseases	GWAS=EFO_0000400; Phecode=250
+Donertas 2020	Endocrine/diabetes	Diabetes Mellitus	D003920	C18.452.394.750	Disease	Nutritional and Metabolic Diseases	Pancreas	Digestive System	endocrine/diabetes	Age-of-onset Cluster=1; Not-equivalent; Too big category
+Donertas 2020	Type 2 diabetes	"Diabetes Mellitus, Type 2"	D003924	C18.452.394.750.149	Disease	Nutritional and Metabolic Diseases	Pancreas	Digestive System	endocrine/diabetes	Age-of-onset Cluster=1; -
+Kim 2021	Type 2 diabetes	"Diabetes Mellitus, Type 2"	D003924	C18.452.394.750.149	Disease	Nutritional and Metabolic Diseases	Pancreas	Digestive System	Nutritional and Metabolic Diseases	GWAS=-; Phecode=250.2
+Kim 2021	Type II diabetes mellitus	"Diabetes Mellitus, Type 2"	D003924	C18.452.394.750.149	Disease	Nutritional and Metabolic Diseases	Pancreas	Digestive System	Nutritional and Metabolic Diseases	GWAS=EFO_0001360; Phecode=-
+Kim 2021	Type 2 diabetic ketoacidosis	Diabetic Ketoacidosis	D016883	C18.452.076.176.652.500	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	Nutritional and Metabolic Diseases	GWAS=-; Phecode=250.21
+Kim 2021	Type 2 diabetic nephropathy	Diabetic Nephropathies	D003928	C12.777.419.192	Disease	Male Urogenital Diseases	Serum	Fluids and Secretions	Male Urogenital Diseases	GWAS=-; Phecode=250.22
+Kim 2021	Type 2 diabetic neuropathy	Diabetic Nephropathies	D003928	C12.777.419.192	Disease	Male Urogenital Diseases	Serum	Fluids and Secretions	Male Urogenital Diseases	GWAS=-; Phecode=250.24
+Kim 2021	Diabetic retinopathy	Diabetic Retinopathy	D003930	C11.768.257	Disease	Eye Diseases	Serum	Fluids and Secretions	Eye Diseases	GWAS=EFO_0003770; Phecode=250.7
+Kim 2021	Type 2 diabetic retinopathy	Diabetic Retinopathy	D003930	C11.768.257	Disease	Eye Diseases	Serum	Fluids and Secretions	Eye Diseases	GWAS=-; Phecode=250.23
+Johnson 2015	Metabolite measurement	"Diagnostic Tests, Routine"	D003955	E01.370.395	Diagnosis	Diagnosis	Unspecified	Unspecified	-	GWAS=EFO_0004725; Phecode=-
+Chang 2019	Diarrhoeal diseases	Diarrhea	D003967	C23.888.821.214	Disease	"Pathological Conditions, Signs and Symptoms"	Gastrointestinal Tract	Digestive System	"Communicable, maternal, neonatal, and nutritional diseases"	-
+Kim 2021	Cancer of the digestive organs and peritoneum	Digestive System Neoplasms	D004067	C04.588.274	Disease	Neoplasms	Gastrointestinal Tract	Digestive System	Neoplasms	GWAS=-; Phecode=159
+Kim 2021	Neoplasm of unspecified nature of digestive system	Digestive System Neoplasms	D004067	C04.588.274	Disease	Neoplasms	Gastrointestinal Tract	Digestive System	Neoplasms	GWAS=-; Phecode=158
+Kim 2021	Secondary malignant neoplasm of digestive systems	Digestive System Neoplasms	D004067	C04.588.274	Disease	Neoplasms	Gastrointestinal Tract	Digestive System	Neoplasms	GWAS=-; Phecode=198.3
+Kim 2021	Diverticulosis and diverticulitis	Diverticular Diseases	D000076385	C06.405.205.282	Disease	Digestive System Diseases	Colon	Digestive System	Digestive System Diseases	GWAS=-; Phecode=562
+Donertas 2020	Diverticular disease/diverticulitis	Diverticulitis	D004238	C06.405.205.282.500	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	gastrointestinal/abdominal	Age-of-onset Cluster=1; -
+Kim 2021	Diverticulitis	Diverticulitis	D004238	C06.405.205.282.500	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	Digestive System Diseases	GWAS=-; Phecode=562.2
+Kim 2021	Diverticulosis	"Diverticulum, Colon"	D004241	C06.405.205.282.750.500	Disease	Digestive System Diseases	Colon	Digestive System	Digestive System Diseases	GWAS=-; Phecode=562.1
+Kim 2021	"Diverticulum of esophagus, acquired"	"Diverticulum, Esophageal"	D004936	C06.405.205.282.750.625	Disease	Digestive System Diseases	Esophagus	Digestive System	Digestive System Diseases	GWAS=-; Phecode=530.6
+Donertas 2020	Oesophageal disorder	"Diverticulum, Esophageal"	D004936	C06.405.205.282.750.625	Disease	Digestive System Diseases	Esophagus	Digestive System	gastrointestinal/abdominal	Age-of-onset Cluster=2; Not-equivalent
+Kim 2021	Dupuytren contracture	Dupuytren Contracture	D004387	C04.557.450.565.590.340.173	Disease	Neoplasms	Connective Tissue	Connective Tissue	Neoplasms	GWAS=EFO_0004229; Phecode=-
+Kim 2021	Dupuytren's disease	Dupuytren Contracture	D004387	C04.557.450.565.590.340.173	Disease	Neoplasms	Connective Tissue	Connective Tissue	Neoplasms	GWAS=-; Phecode=728.71
+Kim 2021	Abnormal involuntary movements	Dyskinesias	D020820	C10.228.662.262	Disease	Nervous System Diseases	Unspecified	Unspecified	Nervous System Diseases	GWAS=-; Phecode=350.1
+Kim 2021	Spontaneous ecchymoses	Ecchymosis	D004438	C15.378.100.452	Disease	Hemic and Lymphatic Diseases	Blood	Hemic and Immune Systems	Hemic and Lymphatic Diseases	GWAS=-; Phecode=287.1
+Kim 2021	Arterial embolism and thrombosis	Embolism and Thrombosis	D016769	C14.907.355	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=444
+Kim 2021	Arterial embolism and thrombosis of lower extremity artery	Embolism and Thrombosis	D016769	C14.907.355	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=444.1
+Kim 2021	Venous embolism & thrombosis	Embolism and Thrombosis	D016769	C14.907.355	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=452
+Kim 2021	Emphysema	Emphysema	D004646	C23.550.325	Disease	"Pathological Conditions, Signs and Symptoms"	Lung	Respiratory System	"Pathological Conditions, Signs and Symptoms"	GWAS=-; Phecode=496.1
+Donertas 2020	Emphysema/chronic bronchitis	Emphysema	D004646	C23.550.325	Disease	"Pathological Conditions, Signs and Symptoms"	Lung	Respiratory System	respiratory/ent	Age-of-onset Cluster=2; Not-equivalent
+Chang 2019	Encephalitis	Encephalitis	D004660	C10.228.140.430	Disease	Nervous System Diseases	Brain	Nervous System	"Communicable, maternal, neonatal, and nutritional diseases"	-
+Kim 2021	Endocarditis	Endocarditis	D004696	C14.280.282	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=420.3
+Chang 2019	Endocarditis	Endocarditis	D004696	C14.280.282	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular diseases	-
+Chang 2019	"Endocrine, metabolic, blood, and immune disorders"	Endocrine System Diseases	D004700	C19	Disease	Endocrine System Diseases	Endocrine System	Endocrine System	Other non-communicable diseases	Too big category
+Kim 2021	Endometrial hyperplasia	Endometrial Hyperplasia	D004714	C13.351.500.852.228	Disease	Female Urogenital Diseases and Pregnancy Complications	Endometrium	Urogenital System	Female Urogenital Diseases and Pregnancy Complications	GWAS=-; Phecode=621
+Kim 2021	Macular puckering of retina	Epiretinal Membrane	D019773	C11.768.328	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=362.26
+Kim 2021	Erectile dysfunction	Erectile Dysfunction	D007172	C12.294.644.486	Disease	Male Urogenital Diseases	Urogenital System	Urogenital System	Male Urogenital Diseases	GWAS=EFO_0004234; Phecode=605
+Kim 2021	Esophageal adenocarcinoma	Esophageal Neoplasms	D004938	C04.588.274.476.205	Disease	Neoplasms	Esophagus	Digestive System	Neoplasms	GWAS=EFO_0000478; Phecode=-
+Kim 2021	Esophageal cancer	Esophageal Neoplasms	D004938	C04.588.274.476.205	Disease	Neoplasms	Esophagus	Digestive System	Neoplasms	GWAS=-; Phecode=150
+Kim 2021	Esophageal carcinoma	Esophageal Neoplasms	D004938	C04.588.274.476.205	Disease	Neoplasms	Esophagus	Digestive System	Neoplasms	GWAS=EFO_0002916; Phecode=-
+Chang 2019	Oesophageal cancer	Esophageal Neoplasms	D004938	C04.588.274.476.205	Disease	Neoplasms	Esophagus	Digestive System	Neoplasms	-
+Donertas 2020	Essential hypertension	Essential Hypertension	D000075222	C14.907.489.165	Disease	Cardiovascular Diseases	Blood	Hemic and Immune Systems	cardiovascular	Age-of-onset Cluster=1; -
+Kim 2021	Essential hypertension	Essential Hypertension	D000075222	C14.907.489.165	Disease	Cardiovascular Diseases	Blood	Hemic and Immune Systems	Cardiovascular Diseases	GWAS=-; Phecode=401.1
+Kim 2021	Essential tremor	Essential Tremor	D020329	C10.228.662.350	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=EFO_0003108; Phecode=333.1
+Kim 2021	Testicular hypofunction	Eunuchism	D005058	C19.391.482.293	Disease	Endocrine System Diseases	Testis	Urogenital System	Endocrine System Diseases	GWAS=-; Phecode=257.1
+Kim 2021	Ectropion or entropion	Eyelid Diseases	D005141	C11.338	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=374.1
+Donertas 2020	Eye/eyelid problem	Eyelid Diseases	D005141	C11.338	Disease	Eye Diseases	Eye	Sense Organs	neurology/eye/psychiatry	Age-of-onset Cluster=1; -
+Kim 2021	Fasciitis	Fasciitis	D005208	C05.321	Disease	Musculoskeletal Diseases	Connective Tissue	Connective Tissue	Musculoskeletal Diseases	GWAS=-; Phecode=728.7
+Kim 2021	Fracture of hand or wrist	"Fractures, Bone"	D050723	C26.404	Disease	Wounds and Injuries	Bone and Bones	Musculoskeletal System	Wounds and Injuries	GWAS=-; Phecode=804
+Kim 2021	Fracture of vertebral column without mention of spinal cord injury	"Fractures, Bone"	D050723	C26.404	Disease	Wounds and Injuries	Bone and Bones	Musculoskeletal System	Wounds and Injuries	GWAS=-; Phecode=805
+Kim 2021	"Osteoporosis, osteopenia, & pathological fractures"	"Fractures, Bone"	D050723	C26.404	Disease	Wounds and Injuries	Bone and Bones	Musculoskeletal System	Wounds and Injuries	GWAS=-; Phecode=743
+Kim 2021	Patellar fracture	"Fractures, Bone"	D050723	C26.404	Disease	Wounds and Injuries	Bone and Bones	Musculoskeletal System	Wounds and Injuries	GWAS=-; Phecode=800.4
+Kim 2021	Pathologic fracture	"Fractures, Spontaneous"	D005598	C26.404.374	Disease	Wounds and Injuries	Bone and Bones	Musculoskeletal System	Wounds and Injuries	GWAS=-; Phecode=743.2
+Kim 2021	Pathologic fracture of vertebrae	"Fractures, Spontaneous"	D005598	C26.404.374	Disease	Wounds and Injuries	Bone and Bones	Musculoskeletal System	Wounds and Injuries	GWAS=-; Phecode=743.21
+Donertas 2020	Gall bladder disease	Gallbladder Diseases	D005705	C06.130.564	Disease	Digestive System Diseases	Urinary Bladder	Urogenital System	gastrointestinal/abdominal	Age-of-onset Cluster=2; -
+Chang 2019	Gallbladder and biliary tract cancer	Gallbladder Neoplasms	D005706	C04.588.274.120.401	Disease	Neoplasms	Urinary Bladder	Urogenital System	Neoplasms	-
+Kim 2021	Calculus of bile duct	Gallstones	D042882	C06.130.409.633	Disease	Digestive System Diseases	Bile Ducts	Digestive System	Digestive System Diseases	GWAS=-; Phecode=574.2
+Donertas 2020	Cholelithiasis/gall stones	Gallstones	D042882	C06.130.409.633	Disease	Digestive System Diseases	Bile Ducts	Digestive System	gastrointestinal/abdominal	Age-of-onset Cluster=2; -
+Kim 2021	Gangrene	Gangrene	D005734	C23.550.717.427	Disease	"Pathological Conditions, Signs and Symptoms"	Blood	Hemic and Immune Systems	"Pathological Conditions, Signs and Symptoms"	GWAS=-; Phecode=791
+Donertas 2020	Gastro-oesophageal reflux (gord) / gastric reflux	Gastroesophageal Reflux	D005764	C06.405.117.119.500.484	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	gastrointestinal/abdominal	Age-of-onset Cluster=2; -
+Donertas 2020	Other abdominal problem	Gastrointestinal Diseases	D005767	C06.405	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	gastrointestinal/abdominal	Age-of-onset Cluster=2; -
+Kim 2021	Gastrointestinal hemorrhage	Gastrointestinal Hemorrhage	D006471	C06.405.227	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	Digestive System Diseases	GWAS=-; Phecode=578
+Kim 2021	Hematochezia	Gastrointestinal Hemorrhage	D006471	C06.405.227	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	Digestive System Diseases	GWAS=HP_0002573; Phecode=-
+Kim 2021	Hemorrhage of gastrointestinal tract	Gastrointestinal Hemorrhage	D006471	C06.405.227	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	Digestive System Diseases	GWAS=-; Phecode=578.9
+Kim 2021	Hemorrhage of rectum and anus	Gastrointestinal Hemorrhage	D006471	C06.405.227	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	Digestive System Diseases	GWAS=-; Phecode=578.8
+Kim 2021	Cancer of the lower GI tract	Gastrointestinal Neoplasms	D005770	C04.588.274.476	Disease	Neoplasms	Gastrointestinal Tract	Digestive System	Neoplasms	GWAS=-; Phecode=153.3
+Donertas 2020	Gastrointestinal/abdominal	Gastrointestinal Tract	D041981	A03.556	Anatomy	Digestive System	Gastrointestinal Tract	Digestive System	gastrointestinal/abdominal	Age-of-onset Cluster=2; Not-equivalent; Too big category
+Kim 2021	Dystrophy of female genital tract	"Genitalia, Female"	D005836	A05.360.319	Anatomy	Anatomy	Urogenital System	Urogenital System	Anatomy	GWAS=-; Phecode=624.1
+Kim 2021	Giant cell arteritis	Giant Cell Arteritis	D013700	C10.114.875.700	Disease	Nervous System Diseases	Blood Vessels	Cardiovascular System	Nervous System Diseases	GWAS=-; Phecode=446.5
+Kim 2021	Glaucoma	Glaucoma	D005901	C11.525.381	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=EFO_0000516; Phecode=365
+Donertas 2020	Glaucoma	Glaucoma	D005901	C11.525.381	Disease	Eye Diseases	Eye	Sense Organs	neurology/eye/psychiatry	Age-of-onset Cluster=1; -
+Chang 2019	Glaucoma	Glaucoma	D005901	C11.525.381	Disease	Eye Diseases	Eye	Sense Organs	Sense organ diseases	-
+Kim 2021	Primary angle-closure glaucoma	"Glaucoma, Angle-Closure"	D015812	C11.525.381.056	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=365.2
+Kim 2021	Open-angle glaucoma	"Glaucoma, Open-Angle"	D005902	C11.525.381.407	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=EFO_0004190; Phecode=365.1
+Kim 2021	Primary open angle glaucoma	"Glaucoma, Open-Angle"	D005902	C11.525.381.407	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=365.11
+Kim 2021	Glossodynia	Glossalgia	D005926	C07.465.910.280	Disease	Stomatognathic Diseases	Tongue	Digestive System	Stomatognathic Diseases	GWAS=-; Phecode=529.6
+Kim 2021	Abnormal glucose	Glucose	D005947	D09.947.875.359.448	Chemical	Chemical	Serum	Fluids and Secretions	Chemical	GWAS=-; Phecode=250.4
+Kim 2021	Simple goiter	Goiter	D006042	C19.874.283	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	Endocrine System Diseases	GWAS=-; Phecode=240
+Kim 2021	Nontoxic multinodular goiter	"Goiter, Nodular"	D006044	C19.874.283.501	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	Endocrine System Diseases	GWAS=-; Phecode=241.2
+Kim 2021	Nontoxic nodular goiter	"Goiter, Nodular"	D006044	C19.874.283.501	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	Endocrine System Diseases	GWAS=-; Phecode=241
+Kim 2021	Nontoxic uninodular goiter	"Goiter, Nodular"	D006044	C19.874.283.501	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	Endocrine System Diseases	GWAS=-; Phecode=241.1
+Kim 2021	Toxic multinodular goiter	"Goiter, Nodular"	D006044	C19.874.283.501	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	Endocrine System Diseases	GWAS=-; Phecode=242.2
+Kim 2021	Gout	Gout	D006073	C05.550.114.423	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=EFO_0004274; Phecode=274.1
+Donertas 2020	Gout	Gout	D006073	C05.550.114.423	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	musculoskeletal/trauma	Age-of-onset Cluster=2; -
+Kim 2021	Gout and other crystal arthropathies	Gout	D006073	C05.550.114.423	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=274
+Kim 2021	Graves disease	Graves Disease	D006111	C19.874.283.605	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	Endocrine System Diseases	GWAS=EFO_0004237; Phecode=-
+Kim 2021	Hallux rigidus	Hallux Rigidus	D020859	C05.330.488.310	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=735.23
+Kim 2021	Cancer of the upper aerodigestive tract	Head and Neck Neoplasms	D006258	C04.588.443	Disease	Neoplasms	Nose	Respiratory System	Neoplasms	GWAS=-; Phecode=149
+Kim 2021	Hearing loss	Hearing Loss	D034381	C09.218.458.341	Disease	Otorhinolaryngologic Diseases	Ear	Sense Organs	Otorhinolaryngologic Diseases	GWAS=EFO_0004238; Phecode=389
+Chang 2019	Age-related and other hearing loss	"Hearing Loss, Sensorineural"	D006319	C09.218.458.341.887	Disease	Otorhinolaryngologic Diseases	Ear	Sense Organs	Sense organ diseases	-
+Kim 2021	Sensorineural hearing loss	"Hearing Loss, Sensorineural"	D006319	C09.218.458.341.887	Disease	Otorhinolaryngologic Diseases	Ear	Sense Organs	Otorhinolaryngologic Diseases	GWAS=-; Phecode=389.1
+Kim 2021	Cardiac arrest	Heart Arrest	D006323	C14.280.383	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=427.42
+Kim 2021	Cardiac arrest & ventricular fibrillation	Heart Arrest	D006323	C14.280.383	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=427.4
+Donertas 2020	Heart/cardiac problem	Heart Diseases	D006331	C14.280	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	cardiovascular	Age-of-onset Cluster=1; -
+Kim 2021	Ill-defined descriptions and complications of heart disease	Heart Diseases	D006331	C14.280	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=429
+Kim 2021	Other forms of chronic heart disease	Heart Diseases	D006331	C14.280	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=414
+Kim 2021	Heart failure	Heart Failure	D006333	C14.280.434	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=EFO_0003144; Phecode=428
+Kim 2021	Heart failure NOS	Heart Failure	D006333	C14.280.434	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=428.2
+Kim 2021	Systolic/Diastolic heart failure	Heart Failure	D006333	C14.280.434	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=428.1
+Johnson 2015	Qt interval	Heart Rate	D006339	E01.370.600.875.500	Diagnosis	Diagnosis	Heart	Cardiovascular System	-	GWAS=EFO_0004682; Phecode=-
+Kim 2021	Heart transplant/surgery	Heart Transplantation	D016027	E04.100.376.475	Diagnosis	Diagnosis	Heart	Cardiovascular System	Diagnosis	GWAS=-; Phecode=429.1
+Kim 2021	Heart valve disorders	Heart Valve Diseases	D006349	C14.280.484	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=395
+Donertas 2020	Heart valve problem/heart murmur	Heart Valve Diseases	D006349	C14.280.484	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	cardiovascular	Age-of-onset Cluster=2; -
+Kim 2021	Nonrheumatic aortic valve disorders	Heart Valve Diseases	D006349	C14.280.484	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=395.2
+Chang 2019	Non-rheumatic calcific aortic valve disease	Heart Valve Diseases	D006349	C14.280.484	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular diseases	-
+Chang 2019	Non-rheumatic degenerative mitral valve disease	Heart Valve Diseases	D006349	C14.280.484	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular diseases	-
+Kim 2021	Nonrheumatic mitral valve disorders	Heart Valve Diseases	D006349	C14.280.484	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=395.1
+Chang 2019	Other non-rheumatic valve diseases	Heart Valve Diseases	D006349	C14.280.484	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular diseases	Not-equivalent
+Kim 2021	Valvular heart disease/ heart chambers	Heart Valve Diseases	D006349	C14.280.484	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=747.12
+Kim 2021	Heart valve replaced	Heart Valve Prosthesis Implantation	D019918	E04.100.376.485	Diagnosis	Diagnosis	Heart	Cardiovascular System	Diagnosis	GWAS=-; Phecode=395.6
+Kim 2021	Hematemesis	Hematemesis	D006396	C06.405.227.400	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	Digestive System Diseases	GWAS=-; Phecode=578.1
+Kim 2021	Hematuria	Hematuria	D006417	C12.777.934.442	Disease	Male Urogenital Diseases	Urine	Fluids and Secretions	Male Urogenital Diseases	GWAS=HP_0000790; Phecode=593
+Kim 2021	Microscopic hematuria	Hematuria	D006417	C12.777.934.442	Disease	Male Urogenital Diseases	Urine	Fluids and Secretions	Male Urogenital Diseases	GWAS=-; Phecode=593.2
+Chang 2019	Other haemoglobinopathies and haemolytic anaemias	Hemoglobinopathies	D006453	C15.378.420	Disease	Hemic and Lymphatic Diseases	Blood cells	Hemic and Immune Systems	Other non-communicable diseases	-
+Kim 2021	Hemoptysis	Hemoptysis	D006469	C08.381.348	Disease	Respiratory Tract Diseases	Respiratory System	Respiratory System	Respiratory Tract Diseases	GWAS=-; Phecode=516.1
+Kim 2021	Hemorrhage NOS	Hemorrhage	D006470	C23.550.414	Disease	"Pathological Conditions, Signs and Symptoms"	Unspecified	Unspecified	"Pathological Conditions, Signs and Symptoms"	GWAS=-; Phecode=459.1
+Kim 2021	Hemorrhoids	Hemorrhoids	D006484	C06.405.469.860.401	Disease	Digestive System Diseases	Anal Canal	Digestive System	Digestive System Diseases	GWAS=-; Phecode=455
+Donertas 2020	Hiatus hernia	"Hernia, Hiatal"	D006551	C23.300.707.960.500.467	Disease	"Pathological Conditions, Signs and Symptoms"	Gastrointestinal Tract	Digestive System	gastrointestinal/abdominal	Age-of-onset Cluster=2; -
+Donertas 2020	Abdominal hernia	"Hernia, Ventral"	D006555	C23.300.707.374.937	Disease	"Pathological Conditions, Signs and Symptoms"	Gastrointestinal Tract	Digestive System	gastrointestinal/abdominal	Age-of-onset Cluster=2; -
+Kim 2021	Herpes zoster	Herpes Zoster	D006562	C01.925.256.466.930.750	Disease	Infections	Unspecified	Unspecified	Infections	GWAS=EFO_0006510; Phecode=53
+Kim 2021	Herpes zoster with nervous system complications	Herpes Zoster	D006562	C01.925.256.466.930.750	Disease	Infections	Unspecified	Unspecified	Infections	GWAS=-; Phecode=53.1
+Chang 2019	Hodgkin lymphoma	Hodgkin Disease	D006689	C04.557.386.355	Disease	Neoplasms	Blood cells	Hemic and Immune Systems	Neoplasms	-
+Donertas 2020	Joint disorder	Hydrarthrosis	D006833	C05.550.509	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	musculoskeletal/trauma	Age-of-onset Cluster=2; Not-equivalent
+Kim 2021	Joint effusions	Hydrarthrosis	D006833	C05.550.509	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=741.4
+Donertas 2020	High cholesterol	Hypercholesterolemia	D006937	C18.452.584.500.500.396	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	cardiovascular	Age-of-onset Cluster=1; -
+Kim 2021	Hypercholesterolemia	Hypercholesterolemia	D006937	C18.452.584.500.500.396	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	Nutritional and Metabolic Diseases	GWAS=-; Phecode=272.11
+Kim 2021	Hyperpotassemia	Hyperkalemia	D006947	C18.452.950.396	Disease	Nutritional and Metabolic Diseases	Urine	Fluids and Secretions	Nutritional and Metabolic Diseases	GWAS=-; Phecode=276.13
+Kim 2021	Hyperosmolality and/or hypernatremia	Hypernatremia	D006955	C18.452.950.452	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	Nutritional and Metabolic Diseases	GWAS=-; Phecode=276.11
+Kim 2021	Hyperparathyroidism	Hyperparathyroidism	D006961	C19.642.355	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	Endocrine System Diseases	GWAS=-; Phecode=252.1
+Donertas 2020	Hyperthyroidism/thyrotoxicosis	Hyperparathyroidism	D006961	C19.642.355	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	endocrine/diabetes	Age-of-onset Cluster=2; -
+Kim 2021	Secondary hyperparathyroidism (of renal origin)	Hyperparathyroidism	D006961	C19.642.355	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	Endocrine System Diseases	GWAS=-; Phecode=588.2
+Kim 2021	Chronic venous hypertension	Hypertension	D006973	C14.907.489	Disease	Cardiovascular Diseases	Blood	Hemic and Immune Systems	Cardiovascular Diseases	GWAS=-; Phecode=453
+Kim 2021	Elevated blood pressure reading	Hypertension	D006973	C14.907.489	Disease	Cardiovascular Diseases	Blood	Hemic and Immune Systems	Cardiovascular Diseases	GWAS=-; Phecode=402
+Donertas 2020	Hypertension	Hypertension	D006973	C14.907.489	Disease	Cardiovascular Diseases	Blood	Hemic and Immune Systems	cardiovascular	Age-of-onset Cluster=1; -
+Kim 2021	Hypertension	Hypertension	D006973	C14.907.489	Disease	Cardiovascular Diseases	Blood	Hemic and Immune Systems	Cardiovascular Diseases	GWAS=EFO_0000537; Phecode=401
+Kim 2021	Hypertensive heart and/or renal disease	Hypertension	D006973	C14.907.489	Disease	Cardiovascular Diseases	Blood	Hemic and Immune Systems	Cardiovascular Diseases	GWAS=-; Phecode=401.2
+Kim 2021	Hypertensive heart disease	Hypertension	D006973	C14.907.489	Disease	Cardiovascular Diseases	Blood	Hemic and Immune Systems	Cardiovascular Diseases	GWAS=-; Phecode=401.21
+Chang 2019	Hypertensive heart disease	Hypertension	D006973	C14.907.489	Disease	Cardiovascular Diseases	Blood	Hemic and Immune Systems	Cardiovascular diseases	-
+Kim 2021	Other hypertensive complications	Hypertension	D006973	C14.907.489	Disease	Cardiovascular Diseases	Blood	Hemic and Immune Systems	Cardiovascular Diseases	GWAS=-; Phecode=401.3
+Kim 2021	Hypertensive chronic kidney disease	"Hypertension, Renal"	D006977	C12.777.419.331	Disease	Male Urogenital Diseases	Blood	Hemic and Immune Systems	Male Urogenital Diseases	GWAS=-; Phecode=401.22
+Kim 2021	Retinal edema and hypertensive retinopathy	Hypertensive Retinopathy	D058437	C11.768.346	Disease	Eye Diseases	Blood	Hemic and Immune Systems	Eye Diseases	GWAS=-; Phecode=362.9
+Kim 2021	Hyposmolality and/or hyponatremia	Hyponatremia	D007010	C18.452.950.620	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	Nutritional and Metabolic Diseases	GWAS=-; Phecode=276.12
+Kim 2021	Hypotension	Hypotension	D007022	C14.907.514	Disease	Cardiovascular Diseases	Blood	Hemic and Immune Systems	Cardiovascular Diseases	GWAS=-; Phecode=458
+Kim 2021	Hypotension NOS	Hypotension	D007022	C14.907.514	Disease	Cardiovascular Diseases	Blood	Hemic and Immune Systems	Cardiovascular Diseases	GWAS=-; Phecode=458.9
+Kim 2021	Iatrogenic hypotension	Hypotension	D007022	C14.907.514	Disease	Cardiovascular Diseases	Blood	Hemic and Immune Systems	Cardiovascular Diseases	GWAS=-; Phecode=458.2
+Kim 2021	Orthostatic hypotension	"Hypotension, Orthostatic"	D007024	C10.177.575.600.450	Disease	Nervous System Diseases	Blood	Hemic and Immune Systems	Nervous System Diseases	GWAS=-; Phecode=458.1
+Donertas 2020	Hypothyroidism/myxoedema	Hypothyroidism	D007037	C19.874.482	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	endocrine/diabetes	Age-of-onset Cluster=2; -
+Kim 2021	Hypoventilation	Hypoventilation	D007040	C08.618.846.565	Disease	Respiratory Tract Diseases	Respiratory System	Respiratory System	Respiratory Tract Diseases	GWAS=-; Phecode=513.3
+Kim 2021	Hypovolemia	Hypovolemia	D020896	C23.550.455	Disease	"Pathological Conditions, Signs and Symptoms"	Blood	Hemic and Immune Systems	"Pathological Conditions, Signs and Symptoms"	GWAS=-; Phecode=276.5
+Kim 2021	Idiopathic fibrosing alveolitis	Idiopathic Pulmonary Fibrosis	D054990	C08.381.765.500	Disease	Respiratory Tract Diseases	Lung	Respiratory System	Respiratory Tract Diseases	GWAS=-; Phecode=504.1
+Kim 2021	Aneurysm of iliac artery	Iliac Aneurysm	D017543	C14.907.055.625	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=442.2
+Kim 2021	Infections of kidney	Infections	D007239	C01	Disease	Infections	Kidney	Urogenital System	Infections	GWAS=-; Phecode=590
+Donertas 2020	Urinary tract infection/kidney infection	Infections	D007239	C01	Disease	Infections	Kidney	Urogenital System	renal/urology	Age-of-onset Cluster=2; Not-equivalent
+Kim 2021	"Infertility, female"	"Infertility, Female"	D007247	C13.351.500.365.700	Disease	Female Urogenital Diseases and Pregnancy Complications	Urogenital System	Urogenital System	Female Urogenital Diseases and Pregnancy Complications	GWAS=-; Phecode=626.8
+Kim 2021	"Infertility, male"	"Infertility, Male"	D007248	C12.294.365.700	Disease	Male Urogenital Diseases	Urogenital System	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=609.1
+Kim 2021	Male infertility	"Infertility, Male"	D007248	C12.294.365.700	Disease	Male Urogenital Diseases	Urogenital System	Urogenital System	Male Urogenital Diseases	GWAS=EFO_0004248; Phecode=-
+Kim 2021	Male infertility and abnormal spermatozoa	"Infertility, Male"	D007248	C12.294.365.700	Disease	Male Urogenital Diseases	Urogenital System	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=609
+Donertas 2020	Bowel problem	Inflammatory Bowel Diseases	D015212	C06.405.205.731	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	gastrointestinal/abdominal	Age-of-onset Cluster=2; -
+Kim 2021	Inflammatory bowel disease	Inflammatory Bowel Diseases	D015212	C06.405.205.731	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	Digestive System Diseases	GWAS=EFO_0003767; Phecode=555
+Donertas 2020	Irritable bowel syndrome	Inflammatory Bowel Diseases	D015212	C06.405.205.731	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	gastrointestinal/abdominal	Age-of-onset Cluster=2; -
+Kim 2021	Degeneration of intervertebral disc	Intervertebral Disc Degeneration	D055959	C05.116.900.153	Disease	Musculoskeletal Diseases	Spinal Cord	Nervous System	Musculoskeletal Diseases	GWAS=-; Phecode=722.6
+Donertas 2020	Disc problem	Intervertebral Disc Degeneration	D055959	C05.116.900.153	Disease	Musculoskeletal Diseases	Spinal Cord	Nervous System	musculoskeletal/trauma	Age-of-onset Cluster=2; -
+Donertas 2020	Prolapsed disc/slipped disc	Intervertebral Disc Displacement	D007405	C05.116.900.307	Disease	Musculoskeletal Diseases	Spinal Cord	Nervous System	musculoskeletal/trauma	Age-of-onset Cluster=2; -
+Chang 2019	Benign and in-situ intestinal neoplasms	Intestinal Neoplasms	D007414	C04.588.274.476.411	Disease	Neoplasms	Gastrointestinal Tract	Digestive System	Neoplasms	-
+Kim 2021	Paralytic ileus	Intestinal Pseudo-Obstruction	D007418	C06.405.469.531.492.500	Disease	Digestive System Diseases	Intestines	Digestive System	Digestive System Diseases	GWAS=-; Phecode=560.1
+Chang 2019	Paralytic ileus and intestinal obstruction	Intestinal Pseudo-Obstruction	D007418	C06.405.469.531.492.500	Disease	Digestive System Diseases	Intestines	Digestive System	Diabetes and kidney diseases	-
+Kim 2021	Brain aneurysm	Intracranial Aneurysm	D002532	C10.228.140.300.510.600	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=EFO_0003870; Phecode=-
+Kim 2021	Cerebral aneurysm	Intracranial Aneurysm	D002532	C10.228.140.300.510.600	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=-; Phecode=433.5
+Kim 2021	Cerebral atherosclerosis	Intracranial Arteriosclerosis	D002537	C10.228.140.300.510.800	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=-; Phecode=433.12
+Kim 2021	Intracranial hemorrhage	Intracranial Hemorrhages	D020300	C10.228.140.300.535	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=-; Phecode=430
+Kim 2021	Intracranial hemorrhage (injury)	Intracranial Hemorrhages	D020300	C10.228.140.300.535	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=-; Phecode=818
+Kim 2021	Transient cerebral ischemia	"Ischemic Attack, Transient"	D002546	C10.228.140.300.150.836	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=-; Phecode=433.31
+Kim 2021	Other arthropathies	Joint Diseases	D007592	C05.550	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=716
+Donertas 2020	Other joint disorder	Joint Diseases	D007592	C05.550	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	musculoskeletal/trauma	Age-of-onset Cluster=2; -
+Kim 2021	Traumatic arthropathy	Joint Diseases	D007592	C05.550	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=836
+Kim 2021	Keratoconjunctivitis sicca	Keratoconjunctivitis Sicca	D007638	C11.187.183.394.500	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=370.31
+Kim 2021	Actinic keratosis	"Keratosis, Actinic"	D055623	C04.834.450	Disease	Neoplasms	Skin	Integumentary System	Neoplasms	GWAS=-; Phecode=702.1
+Kim 2021	Calculus of kidney	Kidney Calculi	D007669	C12.777.419.600.500	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=594.1
+Kim 2021	Calculus of kidney and ureter	Kidney Calculi	D007669	C12.777.419.600.500	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=592
+Kim 2021	Kidney stone	Kidney Calculi	D007669	C12.777.419.600.500	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=EFO_0003845; Phecode=-
+Donertas 2020	Kidney stone/ureter stone/bladder stone	Kidney Calculi	D007669	C12.777.419.600.500	Disease	Male Urogenital Diseases	Kidney	Urogenital System	renal/urology	Age-of-onset Cluster=2; Not-equivalent
+Kim 2021	Nephrolithiasis	Kidney Calculi	D007669	C12.777.419.600.500	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=EFO_0004253; Phecode=-
+Kim 2021	Other disorders of the kidney and ureters	Kidney Diseases	D007674	C12.777.419	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=586
+Donertas 2020	Other renal/kidney problem	Kidney Diseases	D007674	C12.777.419	Disease	Male Urogenital Diseases	Kidney	Urogenital System	renal/urology	Age-of-onset Cluster=2; -
+Kim 2021	Chronic renal failure	"Kidney Failure, Chronic"	D007676	C12.777.419.780.750.500	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=585.3
+Kim 2021	End stage renal disease	"Kidney Failure, Chronic"	D007676	C12.777.419.780.750.500	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=585.32
+Kim 2021	Cancer of kidney and renal pelvis	Kidney Neoplasms	D007680	C04.588.945.947.535	Disease	Neoplasms	Kidney	Urogenital System	Neoplasms	GWAS=-; Phecode=189.1
+Kim 2021	Cancer of kidney and urinary organs	Kidney Neoplasms	D007680	C04.588.945.947.535	Disease	Neoplasms	Kidney	Urogenital System	Neoplasms	GWAS=-; Phecode=189
+Chang 2019	Kidney cancer	Kidney Neoplasms	D007680	C04.588.945.947.535	Disease	Neoplasms	Kidney	Urogenital System	Neoplasms	-
+Kim 2021	Malignant neoplasm of kidney and other urinary organs	Kidney Neoplasms	D007680	C04.588.945.947.535	Disease	Neoplasms	Kidney	Urogenital System	Neoplasms	GWAS=-; Phecode=189.4
+Johnson 2015	Kidney replaced by transplant	Kidney Transplantation	D016030	E02.870.500	Diagnosis	Diagnosis	Kidney	Urogenital System	-	GWAS=-; Phecode=587
+Kim 2021	Labyrinthitis	Labyrinthitis	D007762	C09.218.568.558	Disease	Otorhinolaryngologic Diseases	Ear	Sense Organs	Otorhinolaryngologic Diseases	GWAS=-; Phecode=386.3
+Chang 2019	Larynx cancer	Laryngeal Neoplasms	D007822	C04.588.443.665.481	Disease	Neoplasms	Respiratory System	Respiratory System	Neoplasms	-
+Kim 2021	Chronic ulcer of leg or foot	Leg Ulcer	D007871	C17.800.893.592	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	Skin and Connective Tissue Diseases	GWAS=-; Phecode=707.2
+Chang 2019	Other leukaemia	Leukemia	D007938	C04.557.337	Disease	Neoplasms	Blood cells	Hemic and Immune Systems	Neoplasms	-
+Kim 2021	Chronic lymphocytic leukemia	"Leukemia, Lymphocytic, Chronic, B-Cell"	D015451	C04.557.337.428.080.125	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	GWAS=EFO_0000095; Phecode=-
+Chang 2019	Chronic lymphoid leukaemia	"Leukemia, Lymphocytic, Chronic, B-Cell"	D015451	C04.557.337.428.080.125	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	-
+Kim 2021	Chronic lymphoid leukemia	"Leukemia, Lymphocytic, Chronic, B-Cell"	D015451	C04.557.337.428.080.125	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	GWAS=-; Phecode=204.12
+Chang 2019	Acute lymphoid leukaemia	"Leukemia, Lymphoid"	D007945	C04.557.337.428	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	Not-equivalent
+Kim 2021	Lymphoid leukemia	"Leukemia, Lymphoid"	D007945	C04.557.337.428	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	GWAS=-; Phecode=204.1
+Chang 2019	Chronic myeloid leukaemia	"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"	D015464	C04.557.337.539.250	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	-
+Chang 2019	Acute myeloid leukaemia	"Leukemia, Myeloid, Acute"	D015470	C04.557.337.539.275	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	-
+Kim 2021	Acute myeloid leukemia	"Leukemia, Myeloid, Acute"	D015470	C04.557.337.539.275	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	GWAS=EFO_0000222; Phecode=-
+Kim 2021	Myeloid leukemia	"Leukemia, Myeloid, Acute"	D015470	C04.557.337.539.275	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	GWAS=-; Phecode=204.2
+Kim 2021	Disorders of lipoid metabolism	Lipid Metabolism Disorders	D052439	C18.452.584	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	Nutritional and Metabolic Diseases	GWAS=-; Phecode=272
+Kim 2021	Lipoprotein disorders	Lipid Metabolism Disorders	D052439	C18.452.584	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	Nutritional and Metabolic Diseases	GWAS=-; Phecode=277.51
+Kim 2021	Lipoma	Lipoma	D008067	C04.557.450.550.400	Disease	Neoplasms	Adipose Tissue	Connective Tissue	Neoplasms	GWAS=-; Phecode=214
+Chang 2019	Cirrhosis due to non-alcoholic steatohepatitis	Liver Cirrhosis	D008103	C06.552.630	Disease	Digestive System Diseases	Liver	Digestive System	Diabetes and kidney diseases	-
+Kim 2021	Hepatic cancer	Liver Neoplasms	D008113	C04.588.274.623	Disease	Neoplasms	Liver	Digestive System	Neoplasms	GWAS=-; Phecode=155
+Kim 2021	"Hepatic cancer, primary"	Liver Neoplasms	D008113	C04.588.274.623	Disease	Neoplasms	Liver	Digestive System	Neoplasms	GWAS=-; Phecode=155.1
+Chang 2019	Liver cancer due to alcohol use	Liver Neoplasms	D008113	C04.588.274.623	Disease	Neoplasms	Liver	Digestive System	Neoplasms	Not-equivalent
+Chang 2019	Liver cancer due to hepatitis C	Liver Neoplasms	D008113	C04.588.274.623	Disease	Neoplasms	Liver	Digestive System	Neoplasms	Not-equivalent
+Chang 2019	Liver cancer due to non-alcoholic steatohepatitis	Liver Neoplasms	D008113	C04.588.274.623	Disease	Neoplasms	Liver	Digestive System	Neoplasms	Not-equivalent
+Johnson 2015	Longevity	Longevity	D008136	G07.345.124.519	Phenomena	Phenomena	Unspecified	Unspecified	-	GWAS=EFO_0004300; Phecode=-
+Chang 2019	Interstitial lung disease and pulmonary sarcoidosis	"Lung Diseases, Interstitial"	D017563	C08.381.483	Disease	Respiratory Tract Diseases	Lung	Respiratory System	Chronic respiratory diseases	-
+Kim 2021	Lung cancer	Lung Neoplasms	D008175	C04.588.894.797.520	Disease	Neoplasms	Lung	Respiratory System	Neoplasms	GWAS=-; Phecode=165.1
+Kim 2021	Lung carcinoma	Lung Neoplasms	D008175	C04.588.894.797.520	Disease	Neoplasms	Lung	Respiratory System	Neoplasms	GWAS=EFO_0001071; Phecode=-
+Kim 2021	Secondary malignancy of lung	Lung Neoplasms	D008175	C04.588.894.797.520	Disease	Neoplasms	Lung	Respiratory System	Neoplasms	GWAS=-; Phecode=198.2
+Kim 2021	Squamous cell lung carcinoma	Lung Neoplasms	D008175	C04.588.894.797.520	Disease	Neoplasms	Lung	Respiratory System	Neoplasms	GWAS=EFO_0000708; Phecode=-
+Chang 2019	"Tracheal, bronchus, and lung cancer"	Lung Neoplasms	D008175	C04.588.894.797.520	Disease	Neoplasms	Lung	Respiratory System	Neoplasms	-
+Kim 2021	Systemic lupus erythematosus	"Lupus Erythematosus, Systemic"	D008180	C17.300.480	Disease	Skin and Connective Tissue Diseases	Unspecified	Unspecified	Skin and Connective Tissue Diseases	GWAS=EFO_0002690; Phecode=695.42
+Kim 2021	Lupus nephritis	Lupus Nephritis	D008181	C12.777.419.570.363.680	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=EFO_0005761; Phecode=-
+Kim 2021	"Cancer of other lymphoid, histiocytic tissue"	Lymphoma	D008223	C04.557.386	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	GWAS=-; Phecode=202
+Kim 2021	Secondary malignancy of lymph nodes	Lymphoma	D008223	C04.557.386	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	GWAS=-; Phecode=198.1
+Kim 2021	Nodular lymphoma	"Lymphoma, Follicular"	D008224	C04.557.386.480.350	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	GWAS=-; Phecode=202.21
+Kim 2021	Large cell lymphoma	"Lymphoma, Non-Hodgkin"	D008228	C04.557.386.480	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	GWAS=-; Phecode=202.24
+Kim 2021	Lymphosarcoma	"Lymphoma, Non-Hodgkin"	D008228	C04.557.386.480	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	GWAS=-; Phecode=202.23
+Chang 2019	Non-Hodgkin lymphoma	"Lymphoma, Non-Hodgkin"	D008228	C04.557.386.480	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	-
+Kim 2021	Non-Hodgkins lymphoma	"Lymphoma, Non-Hodgkin"	D008228	C04.557.386.480	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	GWAS=-; Phecode=202.2
+Kim 2021	Reticulosarcoma	"Lymphoma, Non-Hodgkin"	D008228	C04.557.386.480	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	GWAS=-; Phecode=202.22
+Kim 2021	Age-related macular degeneration	Macular Degeneration	D008268	C11.768.585.439	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=EFO_0001365; Phecode=362.29
+Chang 2019	Age-related macular degeneration	Macular Degeneration	D008268	C11.768.585.439	Disease	Eye Diseases	Eye	Sense Organs	Sense organ diseases	-
+Kim 2021	Atrophic macular degeneration	Macular Degeneration	D008268	C11.768.585.439	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=EFO_1001492; Phecode=-
+Kim 2021	Cystoid macular degeneration of retina	Macular Degeneration	D008268	C11.768.585.439	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=362.23
+Kim 2021	Macular degeneration	Macular Degeneration	D008268	C11.768.585.439	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=362.2
+Kim 2021	"Macular degeneration, dry"	Macular Degeneration	D008268	C11.768.585.439	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=362.21
+Kim 2021	Magnesium measurement	Magnesium	D008274	D01.268.552.437	Chemical	Chemical	Serum	Fluids and Secretions	Chemical	GWAS=EFO_0004845; Phecode=-
+Kim 2021	Abnormal findings on mammogram or breast exam	Mammography	D008327	E01.370.350.700.500	Diagnosis	Diagnosis	Breast	Body Regions	Diagnosis	GWAS=-; Phecode=611
+Kim 2021	Abnormal mammogram	Mammography	D008327	E01.370.350.700.500	Diagnosis	Diagnosis	Breast	Body Regions	Diagnosis	GWAS=-; Phecode=611.1
+Kim 2021	Inflammatory disease of breast	Mastitis	D008413	C13.703.844.603	Disease	Female Urogenital Diseases and Pregnancy Complications	Breast	Body Regions	Female Urogenital Diseases and Pregnancy Complications	GWAS=-; Phecode=613.1
+Johnson 2015	Mean platelet volume	Mean Platelet Volume	D063847	E01.370.225.625.625.392	Diagnosis	Diagnosis	Blood Cells	Hemic and Immune Systems	-	GWAS=EFO_0004584; Phecode=-
+Kim 2021	Cutaneous melanoma	Melanoma	D008545	C04.557.465.625.650.510	Disease	Neoplasms	Skin	Integumentary System	Neoplasms	GWAS=EFO_0000389; Phecode=-
+Chang 2019	Malignant skin melanoma	Melanoma	D008545	C04.557.465.625.650.510	Disease	Neoplasms	Skin	Integumentary System	Neoplasms	-
+Kim 2021	Melanoma	Melanoma	D008545	C04.557.465.625.650.510	Disease	Neoplasms	Skin	Integumentary System	Neoplasms	GWAS=EFO_0000756; Phecode=172.1
+Kim 2021	Memory loss	Memory Disorders	D008569	C10.597.606.525	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=-; Phecode=292.3
+Kim 2021	Meniere's disease	Meniere Disease	D008575	C09.218.568.217.500	Disease	Otorhinolaryngologic Diseases	Ear	Sense Organs	Otorhinolaryngologic Diseases	GWAS=-; Phecode=386.1
+Chang 2019	Pneumococcal meningitis	"Meningitis, Pneumococcal"	D008586	C01.150.252.223.500.875	Disease	Infections	Brain	Nervous System	"Communicable, maternal, neonatal, and nutritional diseases"	-
+Chang 2019	Mesothelioma	Mesothelioma	D008654	C04.557.470.035.510	Disease	Neoplasms	Epithelium	Epithelium	Neoplasms	-
+Kim 2021	Magnesium metabolism disorder	Metabolic Diseases	D008659	C18.452	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	Nutritional and Metabolic Diseases	GWAS=-; Phecode=275.3
+Kim 2021	Dysmetabolic syndrome X	Metabolic Syndrome	D024821	C18.452.394.968.500.570	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	Nutritional and Metabolic Diseases	GWAS=-; Phecode=277.7
+Kim 2021	Metabolic syndrome	Metabolic Syndrome	D024821	C18.452.394.968.500.570	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	Nutritional and Metabolic Diseases	GWAS=EFO_0000195; Phecode=-
+Kim 2021	Monoclonal gammopathy	Monoclonal Gammopathy of Undetermined Significance	D008998	C15.378.147.542.640	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	Hemic and Lymphatic Diseases	GWAS=EFO_0000203; Phecode=-
+Chang 2019	Motor neuron disease	Motor Neuron Disease	D016472	C10.574.562	Disease	Nervous System Diseases	Motor Neurons	Nervous System	Neurological disorders	-
+Chang 2019	Lip and oral cavity cancer	Mouth Neoplasms	D009062	C04.588.443.591	Disease	Neoplasms	Mouth	Body Regions	Neoplasms	-
+Kim 2021	Multiple myeloma	Multiple Myeloma	D009101	C04.557.595.500	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	GWAS=EFO_0001378; Phecode=204.4
+Chang 2019	Multiple myeloma	Multiple Myeloma	D009101	C04.557.595.500	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	-
+Kim 2021	Muscular wasting and disuse atrophy	Muscular Atrophy	D009133	C10.597.613.612	Disease	Nervous System Diseases	"Muscle, Skeletal"	Musculoskeletal System	Nervous System Diseases	GWAS=-; Phecode=772.1
+Kim 2021	Abnormal findings on radiological exam of musculoskeletal system	Musculoskeletal System	D009141	A02	Anatomy	Anatomy	Unspecified	Unspecified	Anatomy	GWAS=-; Phecode=793
+Chang 2019	"Myelodysplastic, myeloproliferative, and other hematopoietic neoplasms"	Myeloproliferative Disorders	D009196	C15.378.190.636	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	Neoplasms	Not-equivalent
+Kim 2021	Myeloproliferative disease	Myeloproliferative Disorders	D009196	C15.378.190.636	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	Hemic and Lymphatic Diseases	GWAS=-; Phecode=200
+Donertas 2020	Heart attack/myocardial infarction	Myocardial Infarction	D009203	C14.280.647.500	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	cardiovascular	Age-of-onset Cluster=1; -
+Kim 2021	Myocardial infarction	Myocardial Infarction	D009203	C14.280.647.500	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=EFO_0000612; Phecode=411.2
+Kim 2021	Chronic ischemic heart disease	Myocardial Ischemia	D017202	C14.280.647	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=411.8
+Chang 2019	Ischaemic heart disease	Myocardial Ischemia	D017202	C14.280.647	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular diseases	-
+Kim 2021	Ischemic heart disease	Myocardial Ischemia	D017202	C14.280.647	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=411
+Kim 2021	Other acute and subacute forms of ischemic heart disease	Myocardial Ischemia	D017202	C14.280.647	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=411.9
+Chang 2019	Myocarditis	Myocarditis	D009205	C14.280.238.625	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular diseases	-
+Johnson 2015	Myopia	Myopia	D009216	C11.744.636	Disease	Eye Diseases	Eye	Sense Organs	-	GWAS=HP_0000545; Phecode=367.1
+Johnson 2015	Pathological myopia	"Myopia, Degenerative"	D047728	C11.744.636.500	Disease	Eye Diseases	Eye	Sense Organs	-	GWAS=EFO_0004207; Phecode=-
+Kim 2021	Nasal polyps	Nasal Polyps	D009298	C08.460.572	Disease	Respiratory Tract Diseases	Nose	Respiratory System	Respiratory Tract Diseases	GWAS=-; Phecode=471
+Kim 2021	"Cancer, suspected or other"	Neoplasms	D009369	C04	Disease	Neoplasms	Unspecified	Unspecified	Neoplasms	GWAS=-; Phecode=195
+Kim 2021	"Malignant neoplasm, other"	Neoplasms	D009369	C04	Disease	Neoplasms	Unspecified	Unspecified	Neoplasms	GWAS=-; Phecode=195.1
+Kim 2021	Neoplasm of uncertain behavior	Neoplasms	D009369	C04	Disease	Neoplasms	Unspecified	Unspecified	Neoplasms	GWAS=-; Phecode=199
+Chang 2019	Other benign and in-situ neoplasms	Neoplasms	D009369	C04	Disease	Neoplasms	Unspecified	Unspecified	Neoplasms	-
+Chang 2019	Other malignant neoplasms	Neoplasms	D009369	C04	Disease	Neoplasms	Unspecified	Unspecified	Neoplasms	-
+Kim 2021	Secondary malignant neoplasm	"Neoplasms, Second Primary"	D016609	C04.692	Disease	Neoplasms	Unspecified	Unspecified	Neoplasms	GWAS=-; Phecode=198
+Kim 2021	Nephritis & nephropathy	Nephritis	D009393	C12.777.419.570	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=580.32
+Kim 2021	Nephritis and nephropathy in diseases classified elsewhere	Nephritis	D009393	C12.777.419.570	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=580.31
+Kim 2021	Nephritis and nephropathy without mention of glomerulonephritis	Nephritis	D009393	C12.777.419.570	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=580.3
+Kim 2021	Nephritis; nephrosis; renal sclerosis	Nephritis	D009393	C12.777.419.570	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=580
+Kim 2021	Nephrotic syndrome without mention of glomerulonephritis	Nephrotic Syndrome	D009404	C12.777.419.630.643	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=580.2
+Donertas 2020	Chronic/degenerative neurological problem	Neurodegenerative Diseases	D019636	C10.574	Disease	Nervous System Diseases	Spinal Cord	Nervous System	neurology/eye/psychiatry	Age-of-onset Cluster=2; -
+Kim 2021	Degenerative disease of the spinal cord	Neurodegenerative Diseases	D019636	C10.574	Disease	Nervous System Diseases	Spinal Cord	Nervous System	Nervous System Diseases	GWAS=-; Phecode=334
+Kim 2021	Neutropenia	Neutropenia	D009503	C15.378.553.546.184.564	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	Hemic and Lymphatic Diseases	GWAS=MONDO_0001475; Phecode=288.11
+Kim 2021	Obesity	Obesity	D009765	C18.654.726.500	Disease	Nutritional and Metabolic Diseases	Unspecified	Unspecified	Nutritional and Metabolic Diseases	GWAS=EFO_0001073; Phecode=278.1
+Kim 2021	Morbid obesity	"Obesity, Morbid"	D009767	C18.654.726.500.700	Disease	Nutritional and Metabolic Diseases	Unspecified	Unspecified	Nutritional and Metabolic Diseases	GWAS=-; Phecode=278.11
+Kim 2021	Paget's disease of bone	Osteitis Deformans	D010001	C05.116.692	Disease	Musculoskeletal Diseases	Bone and Bones	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=731.1
+Johnson 2015	Osteoarthritis	Osteoarthritis	D010003	C05.550.114.606	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	-	GWAS=EFO_0002506; Phecode=-
+Donertas 2020	Osteoarthritis	Osteoarthritis	D010003	C05.550.114.606	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	musculoskeletal/trauma	Age-of-onset Cluster=2; -
+Kim 2021	Osteoarthritis; localized	Osteoarthritis	D010003	C05.550.114.606	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=740.1
+Kim 2021	Osteoarthrosis	Osteoarthritis	D010003	C05.550.114.606	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=740
+Kim 2021	Osteoarthrosis NOS	Osteoarthritis	D010003	C05.550.114.606	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=740.9
+Kim 2021	Osteoarthrosis of multiple sites	Osteoarthritis	D010003	C05.550.114.606	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=740.3
+Kim 2021	"Osteoarthrosis, generalized"	Osteoarthritis	D010003	C05.550.114.606	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=740.2
+Kim 2021	"Osteoarthrosis; localized, primary"	Osteoarthritis	D010003	C05.550.114.606	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=740.11
+Kim 2021	"Osteoarthrosis; localized, secondary"	Osteoarthritis	D010003	C05.550.114.606	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=740.12
+Kim 2021	Osteoporosis	Osteoporosis	D010024	C05.116.198.579	Disease	Musculoskeletal Diseases	Bone and Bones	Musculoskeletal System	Musculoskeletal Diseases	GWAS=EFO_0003882; Phecode=743.11
+Donertas 2020	Osteoporosis	Osteoporosis	D010024	C05.116.198.579	Disease	Musculoskeletal Diseases	Bone and Bones	Musculoskeletal System	musculoskeletal/trauma	Age-of-onset Cluster=1; -
+Kim 2021	"Osteoporosis, NOS or other"	Osteoporosis	D010024	C05.116.198.579	Disease	Musculoskeletal Diseases	Bone and Bones	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=743.1
+Kim 2021	Other specified osteoporosis	Osteoporosis	D010024	C05.116.198.579	Disease	Musculoskeletal Diseases	Bone and Bones	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=743.13
+Kim 2021	Malignant neoplasm of ovary	Ovarian Neoplasms	D010051	C04.588.322.455	Disease	Neoplasms	Ovary	Urogenital System	Neoplasms	GWAS=-; Phecode=184.11
+Kim 2021	Ovarian cancer	Ovarian Neoplasms	D010051	C04.588.322.455	Disease	Neoplasms	Ovary	Urogenital System	Neoplasms	GWAS=-; Phecode=184.1
+Chang 2019	Ovarian cancer	Ovarian Neoplasms	D010051	C04.588.322.455	Disease	Neoplasms	Ovary	Urogenital System	Neoplasms	-
+Kim 2021	Ovarian carcinoma	Ovarian Neoplasms	D010051	C04.588.322.455	Disease	Neoplasms	Ovary	Urogenital System	Neoplasms	GWAS=EFO_0001075; Phecode=-
+Kim 2021	Overweight	Overweight	D050177	C23.888.144.699	Disease	"Pathological Conditions, Signs and Symptoms"	Unspecified	Unspecified	"Pathological Conditions, Signs and Symptoms"	GWAS=-; Phecode=278
+Kim 2021	Overweight body mass index status	Overweight	D050177	C23.888.144.699	Disease	"Pathological Conditions, Signs and Symptoms"	Unspecified	Unspecified	"Pathological Conditions, Signs and Symptoms"	GWAS=EFO_0005935; Phecode=-
+Kim 2021	Cyst and pseudocyst of pancreas	Pancreatic Cyst	D010181	C04.182.640	Disease	Neoplasms	Pancreas	Digestive System	Neoplasms	GWAS=-; Phecode=577.3
+Kim 2021	Pancreatic cancer	Pancreatic Neoplasms	D010190	C04.588.274.761	Disease	Neoplasms	Pancreas	Digestive System	Neoplasms	GWAS=-; Phecode=157
+Chang 2019	Pancreatic cancer	Pancreatic Neoplasms	D010190	C04.588.274.761	Disease	Neoplasms	Pancreas	Digestive System	Neoplasms	-
+Kim 2021	Pancreatic carcinoma	Pancreatic Neoplasms	D010190	C04.588.274.761	Disease	Neoplasms	Pancreas	Digestive System	Neoplasms	GWAS=EFO_0002618; Phecode=-
+Kim 2021	Chronic pancreatitis	"Pancreatitis, Chronic"	D050500	C06.689.750.830	Disease	Digestive System Diseases	Pancreas	Digestive System	Digestive System Diseases	GWAS=-; Phecode=577.2
+Chang 2019	Pancreatitis	"Pancreatitis, Chronic"	D050500	C06.689.750.830	Disease	Digestive System Diseases	Pancreas	Digestive System	Diabetes and kidney diseases	-
+Kim 2021	Paraproteinemia	Paraproteinemias	D010265	C15.378.147.780	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	Hemic and Lymphatic Diseases	GWAS=-; Phecode=270.32
+Kim 2021	Parkinson's disease	Parkinson Disease	D010300	C10.228.140.079.862.500	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=EFO_0002508; Phecode=332
+Chang 2019	Parkinson's disease	Parkinson Disease	D010300	C10.228.140.079.862.500	Disease	Nervous System Diseases	Brain	Nervous System	Neurological disorders	-
+Chang 2019	Peptic ulcer disease	Peptic Ulcer	D010437	C06.405.469.275.800	Disease	Digestive System Diseases	Stomach	Digestive System	Diabetes and kidney diseases	-
+Kim 2021	Peripheral arterial disease	Peripheral Arterial Disease	D058729	C14.907.137.126.307.500	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=EFO_0004265; Phecode=443.9
+Chang 2019	Peripheral artery disease	Peripheral Arterial Disease	D058729	C14.907.137.126.307.500	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular diseases	-
+Kim 2021	"Neuralgia, neuritis, and radiculitis NOS"	Peripheral Nervous System Diseases	D010523	C10.668.829	Disease	Nervous System Diseases	Peripheral Nerves	Nervous System	Nervous System Diseases	GWAS=-; Phecode=766
+Donertas 2020	Peripheral nerve disorder	Peripheral Nervous System Diseases	D010523	C10.668.829	Disease	Nervous System Diseases	Peripheral Nerves	Nervous System	neurology/eye/psychiatry	Age-of-onset Cluster=1; -
+Kim 2021	Other specified peripheral vascular diseases	Peripheral Vascular Diseases	D016491	C14.907.617	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=443.8
+Kim 2021	Peripheral angiopathy in diseases classified elsewhere	Peripheral Vascular Diseases	D016491	C14.907.617	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=443.7
+Kim 2021	Peripheral vascular disease	Peripheral Vascular Diseases	D016491	C14.907.617	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=443
+Kim 2021	Phlebitis and thrombophlebitis	Phlebitis	D010689	C14.907.617.718	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=451
+Kim 2021	Phlebitis and thrombophlebitis of lower extremities	Phlebitis	D010689	C14.907.617.718	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=451.2
+Kim 2021	Calcium/Phosphorus disorders	Phosphorus Metabolism Disorders	D010760	C18.452.750	Disease	Nutritional and Metabolic Diseases	Unspecified	Unspecified	Nutritional and Metabolic Diseases	GWAS=-; Phecode=275.5
+Kim 2021	Pleurisy; pleural effusion	Pleurisy	D010998	C01.748.582	Disease	Infections	Thorax	Body Regions	Infections	GWAS=-; Phecode=507
+Chang 2019	Other pneumoconiosis	Pneumoconiosis	D011009	C08.381.483.581	Disease	Respiratory Tract Diseases	Lung	Respiratory System	Chronic respiratory diseases	-
+Johnson 2015	Other pulmonary inflammation or edema	Pneumonia	D011014	C01.748.610	Disease	Infections	Lung	Respiratory System	-	GWAS=-; Phecode=505
+Kim 2021	Empyema and pneumothorax	Pneumothorax	D011030	C08.528.778	Disease	Respiratory Tract Diseases	Lung	Respiratory System	Respiratory Tract Diseases	GWAS=-; Phecode=506
+Kim 2021	Polycythemia vera	Polycythemia Vera	D011087	C04.588.448.200.500	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	GWAS=-; Phecode=200.1
+Kim 2021	"Polycythemia vera, secondary"	Polycythemia Vera	D011087	C04.588.448.200.500	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	GWAS=-; Phecode=289.8
+Kim 2021	Polymyalgia Rheumatica	Polymyalgia Rheumatica	D011111	C05.651.742	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	Musculoskeletal Diseases	GWAS=-; Phecode=717
+Kim 2021	Dermatomyositis and Polymyositis	Polymyositis	D017285	C05.651.594.819	Disease	Musculoskeletal Diseases	Connective Tissue	Connective Tissue	Musculoskeletal Diseases	GWAS=-; Phecode=709.4
+Kim 2021	Inflammatory and toxic neuropathy	Polyneuropathies	D011115	C10.668.829.800	Disease	Nervous System Diseases	Peripheral Nerves	Nervous System	Nervous System Diseases	GWAS=-; Phecode=357
+Kim 2021	Polyneuropathy in diabetes	Polyneuropathies	D011115	C10.668.829.800	Disease	Nervous System Diseases	Peripheral Nerves	Nervous System	Nervous System Diseases	GWAS=-; Phecode=250.6
+Kim 2021	Anal and rectal polyp	Polyps	D011127	C23.300.825	Disease	"Pathological Conditions, Signs and Symptoms"	Anal Canal	Digestive System	"Pathological Conditions, Signs and Symptoms"	GWAS=-; Phecode=565.1
+Kim 2021	Frequency of urination and polyuria	Polyuria	D011141	C12.777.934.616	Disease	Male Urogenital Diseases	Urine	Fluids and Secretions	Male Urogenital Diseases	GWAS=-; Phecode=599.5
+Kim 2021	Menopausal & postmenopausal disorders	Postmenopause	D017698	G08.686.157.500.625	Phenomena	Phenomena	Ovary	Urogenital System	Phenomena	GWAS=-; Phecode=627
+Kim 2021	Postoperative infection	Postoperative Complications	D011183	C23.550.767	Disease	"Pathological Conditions, Signs and Symptoms"	Unspecified	Unspecified	"Pathological Conditions, Signs and Symptoms"	GWAS=-; Phecode=80
+Kim 2021	Acute lymphoblastic leukemia	Precursor Cell Lymphoblastic Leukemia-Lymphoma	D054198	C04.557.337.428.600	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	Neoplasms	GWAS=EFO_0000220; Phecode=-
+Kim 2021	Impaired fasting glucose	Prediabetic State	D011236	C18.452.394.750.774	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	Nutritional and Metabolic Diseases	GWAS=-; Phecode=250.41
+Kim 2021	Age-related hearing impairment	Presbycusis	D011304	C09.218.458.341.887.772	Disease	Otorhinolaryngologic Diseases	Ear	Sense Organs	Otorhinolaryngologic Diseases	GWAS=EFO_0005782; Phecode=-
+Chang 2019	Decubitus ulcer	Pressure Ulcer	D003668	C17.800.893.665	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	Skin and subcutaneous diseases	-
+Kim 2021	Elevated prostate specific antigen	Prostate-Specific Antigen	D017430	D08.811.277.656.300.760.442.750	Chemical	Chemical	Prostate	Urogenital System	Chemical	GWAS=-; Phecode=796
+Kim 2021	Other disorders of prostate	Prostatic Diseases	D011469	C12.294.565	Disease	Male Urogenital Diseases	Prostate	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=602
+Kim 2021	Benign prostatic hyperplasia	Prostatic Hyperplasia	D011470	C12.294.565.500	Disease	Male Urogenital Diseases	Prostate	Urogenital System	Male Urogenital Diseases	GWAS=EFO_0000284; Phecode=-
+Kim 2021	Hyperplasia of prostate	Prostatic Hyperplasia	D011470	C12.294.565.500	Disease	Male Urogenital Diseases	Prostate	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=600
+Kim 2021	Prostate cancer	Prostatic Neoplasms	D011471	C04.588.945.440.770	Disease	Neoplasms	Prostate	Urogenital System	Neoplasms	GWAS=-; Phecode=185
+Chang 2019	Prostate cancer	Prostatic Neoplasms	D011471	C04.588.945.440.770	Disease	Neoplasms	Prostate	Urogenital System	Neoplasms	-
+Kim 2021	Prostate carcinoma	Prostatic Neoplasms	D011471	C04.588.945.440.770	Disease	Neoplasms	Prostate	Urogenital System	Neoplasms	GWAS=EFO_0001663; Phecode=-
+Kim 2021	Chronic prostatitis	Prostatitis	D011472	C12.294.565.750	Disease	Male Urogenital Diseases	Prostate	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=601.12
+Kim 2021	Inflammatory diseases of prostate	Prostatitis	D011472	C12.294.565.750	Disease	Male Urogenital Diseases	Prostate	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=601
+Kim 2021	Proteinuria	Proteinuria	D011507	C12.777.934.734	Disease	Male Urogenital Diseases	Urine	Fluids and Secretions	Male Urogenital Diseases	GWAS=HP_0000093; Phecode=269
+Kim 2021	Prurigo	Prurigo	D011536	C17.800.674	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	Skin and Connective Tissue Diseases	GWAS=-; Phecode=695.7
+Kim 2021	Psoriasis	Psoriasis	D011565	C17.800.859.675	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	Skin and Connective Tissue Diseases	GWAS=EFO_0000676; Phecode=696.4
+Kim 2021	Psoriasis & related disorders	Psoriasis	D011565	C17.800.859.675	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	Skin and Connective Tissue Diseases	GWAS=-; Phecode=696
+Kim 2021	Psoriasis vulgaris	Psoriasis	D011565	C17.800.859.675	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	Skin and Connective Tissue Diseases	GWAS=EFO_1001494; Phecode=696.41
+Kim 2021	Chronic airway obstruction	"Pulmonary Disease, Chronic Obstructive"	D029424	C08.381.495.389	Disease	Respiratory Tract Diseases	Lung	Respiratory System	Respiratory Tract Diseases	GWAS=-; Phecode=496
+Chang 2019	Chronic obstructive pulmonary disease	"Pulmonary Disease, Chronic Obstructive"	D029424	C08.381.495.389	Disease	Respiratory Tract Diseases	Lung	Respiratory System	Chronic respiratory diseases	-
+Kim 2021	Chronic obstructive pulmonary disease	"Pulmonary Disease, Chronic Obstructive"	D029424	C08.381.495.389	Disease	Respiratory Tract Diseases	Lung	Respiratory System	Respiratory Tract Diseases	GWAS=EFO_0000341; Phecode=-
+Donertas 2020	Pulmonary embolism +/- dvt	Pulmonary Embolism	D011655	C08.381.746	Disease	Respiratory Tract Diseases	Blood Vessels	Cardiovascular System	cardiovascular	Age-of-onset Cluster=2; -
+Chang 2019	Pyoderma	Pyoderma	D011711	C17.800.695	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	Skin and subcutaneous diseases	-
+Kim 2021	Cervical radiculitis	Radiculopathy	D011843	C10.668.829.820	Disease	Nervous System Diseases	Spinal Cord	Nervous System	Nervous System Diseases	GWAS=-; Phecode=765
+Chang 2019	Refraction disorders	Refractive Errors	D012030	C11.744	Disease	Eye Diseases	Eye	Sense Organs	Sense organ diseases	-
+Kim 2021	Abnormal kidney function	Renal Insufficiency	D051437	C12.777.419.780	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=589
+Kim 2021	Disorders resulting from impaired renal function	Renal Insufficiency	D051437	C12.777.419.780	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=588
+Kim 2021	Renal failure	Renal Insufficiency	D051437	C12.777.419.780	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=585
+Kim 2021	Renal failure NOS	Renal Insufficiency	D051437	C12.777.419.780	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=585.2
+Donertas 2020	Renal/urology	Renal Insufficiency	D051437	C12.777.419.780	Disease	Male Urogenital Diseases	Kidney	Urogenital System	renal/urology	Age-of-onset Cluster=1; -
+Kim 2021	Chronic kidney disease	"Renal Insufficiency, Chronic"	D051436	C12.777.419.780.750	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=EFO_0003884; Phecode=-
+Kim 2021	"Chronic kidney disease, Stage I or II"	"Renal Insufficiency, Chronic"	D051436	C12.777.419.780.750	Disease	Male Urogenital Diseases	Kidney	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=585.4
+Donertas 2020	Other respiratory problems	Respiratory Insufficiency	D012131	C08.618.846	Disease	Respiratory Tract Diseases	Lung	Respiratory System	respiratory/ent	Age-of-onset Cluster=2; -
+Kim 2021	Respiratory failure	Respiratory Insufficiency	D012131	C08.618.846	Disease	Respiratory Tract Diseases	Lung	Respiratory System	Respiratory Tract Diseases	GWAS=-; Phecode=509.1
+Kim 2021	Respiratory failure; insufficiency; arrest	Respiratory Insufficiency	D012131	C08.618.846	Disease	Respiratory Tract Diseases	Lung	Respiratory System	Respiratory Tract Diseases	GWAS=-; Phecode=509
+Kim 2021	Respiratory insufficiency	Respiratory Insufficiency	D012131	C08.618.846	Disease	Respiratory Tract Diseases	Lung	Respiratory System	Respiratory Tract Diseases	GWAS=-; Phecode=509.2
+Johnson 2015	Pulmonary function measurement	Respiratory Physiological Phenomena	D012143	G09.772	Phenomena	Phenomena	Lung	Respiratory System	-	GWAS=EFO_0003892; Phecode=-
+Chang 2019	Lower respiratory infections	Respiratory Tract Infections	D012141	C01.748	Disease	Infections	Respiratory System	Respiratory System	"Communicable, maternal, neonatal, and nutritional diseases"	-
+Kim 2021	Cancer within the respiratory system	Respiratory Tract Neoplasms	D012142	C04.588.894.797	Disease	Neoplasms	Lung	Respiratory System	Neoplasms	GWAS=-; Phecode=165
+Kim 2021	Peripheral retinal degenerations	Retinal Degeneration	D012162	C11.270.612	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=362.6
+Kim 2021	Retinal drusen	Retinal Drusen	D015593	C11.768.585.585	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=362.27
+Donertas 2020	Retinal problem	Retinal Drusen	D015593	C11.768.585.585	Disease	Eye Diseases	Eye	Sense Organs	neurology/eye/psychiatry	Age-of-onset Cluster=1; -
+Kim 2021	Chronic rheumatic disease of the heart valves	Rheumatic Heart Disease	D012214	C01.150.252.410.890.731.649	Disease	Infections	Heart	Cardiovascular System	Infections	GWAS=-; Phecode=394
+Kim 2021	Other rheumatic heart disease	Rheumatic Heart Disease	D012214	C01.150.252.410.890.731.649	Disease	Infections	Heart	Cardiovascular System	Infections	GWAS=-; Phecode=394.4
+Donertas 2020	Sciatica	Sciatica	D012585	C10.668.829.500.675.800	Disease	Nervous System Diseases	Spinal Cord	Nervous System	musculoskeletal/trauma	Age-of-onset Cluster=2; -
+Kim 2021	Scleritis and episcleritis	Scleritis	D015423	C11.790.500	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=379.1
+Chang 2019	Other sense organ diseases	Sensation Disorders	D012678	C10.597.751	Disease	Nervous System Diseases	Sense Organs	Sense Organs	Sense organ diseases	-
+Kim 2021	Sinoatrial node dysfunction	Sick Sinus Syndrome	D012804	C14.280.067.093.249	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=427.8
+Chang 2019	Silicosis	Silicosis	D012829	C08.381.483.581.760	Disease	Respiratory Tract Diseases	Lung	Respiratory System	Chronic respiratory diseases	-
+Kim 2021	Sicca syndrome	Sjogren's Syndrome	D012859	C05.550.114.154.774	Disease	Musculoskeletal Diseases	Salivary Glands	Digestive System	Musculoskeletal Diseases	GWAS=-; Phecode=709.2
+Kim 2021	Sjogren syndrome	Sjogren's Syndrome	D012859	C05.550.114.154.774	Disease	Musculoskeletal Diseases	Salivary Glands	Digestive System	Musculoskeletal Diseases	GWAS=EFO_0000699; Phecode=-
+Chang 2019	Other skin and subcutaneous diseases	Skin Diseases	D012871	C17.800	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	Skin and subcutaneous diseases	-
+Kim 2021	Bullous dermatoses	"Skin Diseases, Vesiculobullous"	D012872	C17.800.865	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	Skin and Connective Tissue Diseases	GWAS=-; Phecode=695.2
+Kim 2021	Carcinoma in situ of skin	Skin Neoplasms	D012878	C04.588.805	Disease	Neoplasms	Skin	Integumentary System	Neoplasms	GWAS=-; Phecode=172.3
+Kim 2021	Non-Melanoma skin cancer	Skin Neoplasms	D012878	C04.588.805	Disease	Neoplasms	Skin	Integumentary System	Neoplasms	GWAS=-; Phecode=172.2
+Chang 2019	Non-melanoma skin cancer (basal-cell carcinoma)	Skin Neoplasms	D012878	C04.588.805	Disease	Neoplasms	Skin	Integumentary System	Neoplasms	Not-equivalent
+Chang 2019	Non-melanoma skin cancer (squamous-cell carcinoma)	Skin Neoplasms	D012878	C04.588.805	Disease	Neoplasms	Skin	Integumentary System	Neoplasms	Not-equivalent
+Kim 2021	Non-Melanoma skin carcinoma	Skin Neoplasms	D012878	C04.588.805	Disease	Neoplasms	Skin	Integumentary System	Neoplasms	GWAS=EFO_0009260; Phecode=-
+Kim 2021	Skin cancer	Skin Neoplasms	D012878	C04.588.805	Disease	Neoplasms	Skin	Integumentary System	Neoplasms	GWAS=-; Phecode=172
+Kim 2021	Skin neoplasm of uncertain behavior	Skin Neoplasms	D012878	C04.588.805	Disease	Neoplasms	Skin	Integumentary System	Neoplasms	GWAS=-; Phecode=173
+Kim 2021	Chronic ulcer of skin	Skin Ulcer	D012883	C17.800.893	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	Skin and Connective Tissue Diseases	GWAS=-; Phecode=707
+Kim 2021	Sleep apnea	Sleep Apnea Syndromes	D012891	C08.618.085.852	Disease	Respiratory Tract Diseases	Respiratory System	Respiratory System	Respiratory Tract Diseases	GWAS=-; Phecode=327.3
+Kim 2021	Sleep apnea measurement	Sleep Apnea Syndromes	D012891	C08.618.085.852	Disease	Respiratory Tract Diseases	Respiratory System	Respiratory System	Respiratory Tract Diseases	GWAS=EFO_0007817; Phecode=-
+Kim 2021	Obstructive sleep apnea	"Sleep Apnea, Obstructive"	D020181	C08.618.085.852.850	Disease	Respiratory Tract Diseases	Respiratory System	Respiratory System	Respiratory Tract Diseases	GWAS=EFO_0003918; Phecode=327.32
+Kim 2021	Small cell lung carcinoma	Small Cell Lung Carcinoma	D055752	C04.588.894.797.520.109.220.624	Disease	Neoplasms	Lung	Respiratory System	Neoplasms	GWAS=EFO_0000702; Phecode=-
+Kim 2021	Spinal stenosis	Spinal Stenosis	D013130	C05.116.900.825	Disease	Musculoskeletal Diseases	Spinal Cord	Nervous System	Musculoskeletal Diseases	GWAS=-; Phecode=720
+Kim 2021	Spinal stenosis of lumbar region	Spinal Stenosis	D013130	C05.116.900.825	Disease	Musculoskeletal Diseases	Spinal Cord	Nervous System	Musculoskeletal Diseases	GWAS=-; Phecode=720.1
+Donertas 2020	Spine arthritis/spondylitis	Spondylarthritis	D025241	C05.116.900.853.625	Disease	Musculoskeletal Diseases	Spinal Cord	Nervous System	musculoskeletal/trauma	Age-of-onset Cluster=2; -
+Donertas 2020	Cervical spondylosis	Spondylosis	D055009	C05.116.900.938	Disease	Musculoskeletal Diseases	Spinal Cord	Nervous System	musculoskeletal/trauma	Age-of-onset Cluster=2; -
+Kim 2021	Spondylosis with myelopathy	Spondylosis	D055009	C05.116.900.938	Disease	Musculoskeletal Diseases	Spinal Cord	Nervous System	Musculoskeletal Diseases	GWAS=-; Phecode=721.2
+Donertas 2020	Stomach disorder	Stomach Diseases	D013272	C06.405.748	Disease	Digestive System Diseases	Stomach	Digestive System	gastrointestinal/abdominal	Age-of-onset Cluster=2; -
+Kim 2021	Gastric carcinoma	Stomach Neoplasms	D013274	C04.588.274.476.767	Disease	Neoplasms	Stomach	Digestive System	Neoplasms	GWAS=EFO_0000178; Phecode=-
+Chang 2019	Stomach cancer	Stomach Neoplasms	D013274	C04.588.274.476.767	Disease	Neoplasms	Stomach	Digestive System	Neoplasms	-
+Donertas 2020	Gastric/stomach ulcers	Stomach Ulcer	D013276	C06.405.469.275.800.849	Disease	Digestive System Diseases	Stomach	Digestive System	gastrointestinal/abdominal	Age-of-onset Cluster=2; -
+Chang 2019	Ischaemic stroke	Stroke	D020521	C10.228.140.300.775	Disease	Nervous System Diseases	Brain	Nervous System	Cardiovascular diseases	-
+Kim 2021	Ischemic stroke	Stroke	D020521	C10.228.140.300.775	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=HP_0002140; Phecode=433.21
+Kim 2021	Large artery stroke	Stroke	D020521	C10.228.140.300.775	Disease	Nervous System Diseases	Brain	Nervous System	Nervous System Diseases	GWAS=EFO_0005524; Phecode=-
+Donertas 2020	Stroke	Stroke	D020521	C10.228.140.300.775	Disease	Nervous System Diseases	Brain	Nervous System	cardiovascular	Age-of-onset Cluster=1; -
+Kim 2021	Non-Healing surgical wound	Surgical Wound	D000072836	C26.859	Disease	Wounds and Injuries	Unspecified	Unspecified	Wounds and Injuries	GWAS=-; Phecode=875
+Kim 2021	Synoviopathy	Synovial Membrane	D013583	A02.835.583.443.800	Anatomy	Anatomy	Joints	Musculoskeletal System	Anatomy	GWAS=-; Phecode=726.2
+Kim 2021	Tachycardia NOS	Tachycardia	D013610	C14.280.067.845	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=427.7
+Kim 2021	T-Tau measurement	tau Proteins	D016875	D12.776.220.600.450.510	Disease	"Amino Acids, Peptides, and Proteins"	Brain	Nervous System	"Amino Acids, Peptides, and Proteins"	GWAS=EFO_0004760; Phecode=-
+Johnson 2015	Telomere length	Telomere	D016615	G05.360.160.845	Phenomena	Phenomena	Unspecified	Unspecified	-	GWAS=EFO_0004505; Phecode=-
+Kim 2021	Testicular dysfunction	Testicular Diseases	D013733	C12.294.829	Disease	Male Urogenital Diseases	Testis	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=257
+Kim 2021	Abnormal chest sounds	Thorax	D013909	A01.923.761	Anatomy	Anatomy	Thorax	Body Regions	Anatomy	GWAS=-; Phecode=512.3
+Kim 2021	Secondary thrombocytopenia	Thrombocytopenia	D013921	C15.378.140.855	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	Hemic and Lymphatic Diseases	GWAS=-; Phecode=287.32
+Donertas 2020	Thyroid problem (not cancer)	Thyroid Diseases	D013959	C19.874	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	endocrine/diabetes	Age-of-onset Cluster=2; Not-equivalent; Too big category
+Kim 2021	Thyroid cancer	Thyroid Neoplasms	D013964	C04.588.322.894	Disease	Neoplasms	Thyroid Gland	Endocrine System	Neoplasms	GWAS=-; Phecode=193
+Chang 2019	Thyroid cancer	Thyroid Neoplasms	D013964	C04.588.322.894	Disease	Neoplasms	Thyroid Gland	Endocrine System	Neoplasms	-
+Kim 2021	Thyroid carcinoma	Thyroid Neoplasms	D013964	C04.588.322.894	Disease	Neoplasms	Thyroid Gland	Endocrine System	Neoplasms	GWAS=EFO_0002892; Phecode=-
+Kim 2021	Costochondritis	Tietze's Syndrome	D013991	C05.182.790	Disease	Musculoskeletal Diseases	Thorax	Body Regions	Musculoskeletal Diseases	GWAS=-; Phecode=733.6
+Kim 2021	Tinnitus	Tinnitus	D014012	C09.218.458.670	Disease	Otorhinolaryngologic Diseases	Ear	Sense Organs	Otorhinolaryngologic Diseases	GWAS=HP_0000360; Phecode=389.4
+Chang 2019	Trachoma	Trachoma	D014141	C01.150.252.289.225.800	Disease	Infections	Eye	Sense Organs	"Communicable, maternal, neonatal, and nutritional diseases"	-
+Kim 2021	Trigeminal nerve disorders	Trigeminal Nerve Diseases	D020433	C07.465.299.625.500	Disease	Stomatognathic Diseases	Peripheral Nerves	Nervous System	Stomatognathic Diseases	GWAS=-; Phecode=352.1
+Johnson 2015	Triglyceride change measurement	Triglycerides	D014280	D10.351.801	Chemical	Chemical	Serum	Fluids and Secretions	-	GWAS=EFO_0007681; Phecode=-
+Johnson 2015	Triglyceride measurement	Triglycerides	D014280	D10.351.801	Chemical	Chemical	Serum	Fluids and Secretions	-	GWAS=EFO_0004530; Phecode=-
+Kim 2021	Chronic ulcer of unspecified site	Ulcer	D014456	C23.550.891	Disease	"Pathological Conditions, Signs and Symptoms"	Skin	Integumentary System	"Pathological Conditions, Signs and Symptoms"	GWAS=-; Phecode=707.3
+Kim 2021	Calculus of lower urinary tract	Ureteral Calculi	D014514	C12.777.725.938.500	Disease	Male Urogenital Diseases	Ureter	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=594.2
+Kim 2021	Calculus of ureter	Ureteral Calculi	D014514	C12.777.725.938.500	Disease	Male Urogenital Diseases	Ureter	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=594.3
+Johnson 2015	Urate measurement	Uric Acid	D014527	D03.132.960.877	Chemical	Chemical	Serum	Fluids and Secretions	-	GWAS=EFO_0004531; Phecode=-
+Johnson 2015	Uric acid measurement	Uric Acid	D014527	D03.132.960.877	Chemical	Chemical	Serum	Fluids and Secretions	-	GWAS=EFO_0004761; Phecode=-
+Kim 2021	Bladder neck obstruction	Urinary Bladder Neck Obstruction	D001748	C12.777.767.700.962	Disease	Male Urogenital Diseases	Urinary Bladder	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=596.1
+Donertas 2020	Bladder problem (not cancer)	Urinary Bladder Neck Obstruction	D001748	C12.777.767.700.962	Disease	Male Urogenital Diseases	Urinary Bladder	Urogenital System	renal/urology	Age-of-onset Cluster=1; Not-equivalent
+Kim 2021	Bladder cancer	Urinary Bladder Neoplasm	D001749	C04.588.945.947.960	Disease	Neoplasms	Urinary Bladder	Urogenital System	Neoplasms	GWAS=-; Phecode=189.21
+Chang 2019	Bladder cancer	Urinary Bladder Neoplasm	D001749	C04.588.945.947.960	Disease	Neoplasms	Urinary Bladder	Urogenital System	Neoplasms	-
+Kim 2021	Bladder cancer and neoplasms	Urinary Bladder Neoplasm	D001749	C04.588.945.947.960	Disease	Neoplasms	Urinary Bladder	Urogenital System	Neoplasms	GWAS=-; Phecode=189.2
+Kim 2021	Bladder carcinoma	Urinary Bladder Neoplasm	D001749	C04.588.945.947.960	Disease	Neoplasms	Urinary Bladder	Urogenital System	Neoplasms	GWAS=EFO_0000292; Phecode=-
+Kim 2021	Urinary incontinence	Urinary Incontinence	D014549	C12.777.934.852	Disease	Male Urogenital Diseases	Ureter	Urogenital System	Male Urogenital Diseases	GWAS=HP_0000020; Phecode=599.4
+Kim 2021	"Stress incontinence, female"	"Urinary Incontinence, Stress"	D014550	C12.777.934.852.249	Disease	Male Urogenital Diseases	Ureter	Urogenital System	Male Urogenital Diseases	GWAS=-; Phecode=624.9
+Kim 2021	Cervical cancer	Uterine Cervical Neoplasms	D002583	C04.588.945.418.948.850	Disease	Neoplasms	Cervix Uteri	Urogenital System	Neoplasms	GWAS=-; Phecode=180.1
+Kim 2021	Cervical cancer and dysplasia	Uterine Cervical Neoplasms	D002583	C04.588.945.418.948.850	Disease	Neoplasms	Cervix Uteri	Urogenital System	Neoplasms	GWAS=-; Phecode=180
+Kim 2021	Cervical carcinoma	Uterine Cervical Neoplasms	D002583	C04.588.945.418.948.850	Disease	Neoplasms	Cervix Uteri	Urogenital System	Neoplasms	GWAS=EFO_0001061; Phecode=-
+Chang 2019	Uterine cancer	Uterine Neoplasms	D014594	C04.588.945.418.948	Disease	Neoplasms	Uterine	Urogenital System	Neoplasms	-
+Kim 2021	Genital prolapse	Uterine Prolapse	D014596	C13.351.500.852.833	Disease	Female Urogenital Diseases and Pregnancy Complications	Uterine	Urogenital System	Female Urogenital Diseases and Pregnancy Complications	GWAS=-; Phecode=618
+Kim 2021	Varicose veins	Varicose Veins	D014648	C14.907.927	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=HP_0002619; Phecode=454
+Kim 2021	Varicose veins of lower extremity	Varicose Veins	D014648	C14.907.927	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=454.1
+Kim 2021	"Varicose veins of lower extremity, symptomtic"	Varicose Veins	D014648	C14.907.927	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=454.11
+Kim 2021	Stricture of artery	Vascular Diseases	D014652	C14.907	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=447.1
+Kim 2021	Vascular disorders of kidney/hypertrophy	Vascular Diseases	D014652	C14.907	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=586.3
+Chang 2019	Vascular intestinal disorders	Vascular Diseases	D014652	C14.907	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Diabetes and kidney diseases	-
+Kim 2021	Chronic venous insufficiency	Venous Insufficiency	D014689	C14.907.952	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=456
+Donertas 2020	Venous thromboembolic disease	Venous Thromboembolism	D054556	C14.907.355.590.700	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	cardiovascular	Age-of-onset Cluster=2; -
+Kim 2021	Venous thromboembolism	Venous Thromboembolism	D054556	C14.907.355.590.700	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=HP_0002619; Phecode=-
+Kim 2021	Deep vein thrombosis	Venous Thrombosis	D020246	C14.907.355.830.925	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=452.2
+Donertas 2020	Deep venous thrombosis (dvt)	Venous Thrombosis	D020246	C14.907.355.830.925	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	cardiovascular	Age-of-onset Cluster=2; -
+Kim 2021	Ventricular fibrillation & flutter	Ventricular Fibrillation	D014693	C14.280.067.922	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	Cardiovascular Diseases	GWAS=-; Phecode=427.41
+Donertas 2020	Ear/vestibular disorder	Vestibular Diseases	D015837	C09.218.568.900	Disease	Otorhinolaryngologic Diseases	Ear	Sense Organs	respiratory/ent	Age-of-onset Cluster=2; Not-equivalent; Too big category
+Kim 2021	Abnormal loss of weight and underweight	Weight Loss	D015431	C23.888.144.243.963	Disease	"Pathological Conditions, Signs and Symptoms"	Unspecified	Unspecified	"Pathological Conditions, Signs and Symptoms"	GWAS=-; Phecode=260
+Kim 2021	"Macular degeneration, wet"	Wet Macular Degeneration	D057135	C11.768.585.439.622	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=-; Phecode=362.22
+Kim 2021	Wet macular degeneration	Wet Macular Degeneration	D057135	C11.768.585.439.622	Disease	Eye Diseases	Eye	Sense Organs	Eye Diseases	GWAS=EFO_0004683; Phecode=-
+Kim 2021	Posttraumatic wound infection	Wound Infection	D014946	C01.947	Disease	Infections	Unspecified	Unspecified	Infections	GWAS=-; Phecode=876

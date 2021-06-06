@@ -1,0 +1,366 @@
+MeSH_Term	MeSH_ID	MeSH_Tree	MeSH_Cat	MeSH_Group	MeSH_Anatomy	MeSH_Anatomy_Category	Chang 2019	Donertas 2020	Johnson 2015	Kim 2021
+Acute Coronary Syndrome	D054058	C14.280.647.124	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	-	-	1
+Acute Kidney Injury	D058186	C12.777.419.780.050	Disease	Male Urogenital Diseases	Kidney	Urogenital System	-	-	-	1
+Adenocarcinoma of Lung	D000077192	C04.557.470.200.025.022	Disease	Neoplasms	Lung	Respiratory System	-	-	-	1
+Adiponectin	D052242	D06.472.699.042.249	Chemical	Chemical	Serum	Fluids and Secretions	-	-	1	-
+Alzheimer Disease	D000544	C10.228.140.380.100	Disease	Nervous System Diseases	Brain	Nervous System	1	-	-	2
+Amyloid beta-Peptides	D016229	D12.644.024	Disease	"Amino Acids, Peptides, and Proteins"	Brain	Nervous System	-	-	-	1
+Amyotrophic Lateral Sclerosis	D000690	C10.228.854.139	Disease	Nervous System Diseases	Brain	Nervous System	-	-	1	-
+Anemia	D000740	C15.378.071	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	-	2	-	4
+Aneurysm	D000783	C14.907.055	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	-	-	-	4
+Angina Pectoris	D000787	C14.280.647.187	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	1	-	1
+"Angina, Unstable"	D000789	C14.280.647.187.150	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	-	-	1
+Ankle Joint	D000843	A02.835.583.378.062	Anatomy	Anatomy	Joints	Musculoskeletal System	-	-	-	1
+Anthracosis	D055008	C08.381.483.581.062	Disease	Respiratory Tract Diseases	Lung	Respiratory System	1	-	-	-
+Anxiety	D001007	F01.470.132	Psychiatry	Psychiatry	Brain	Nervous System	-	1	-	-
+Aortic Aneurysm	D001014	C14.907.055.239	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	-	-	-	1
+"Aortic Aneurysm, Abdominal"	D017544	C14.907.055.239.075	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	-	-	-	1
+Apnea	D001049	C08.618.085	Disease	Respiratory Tract Diseases	Respiratory System	Respiratory System	-	-	-	1
+"Arrhythmias, Cardiac"	D001145	C14.280.067	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	1	1	-	4
+Arterial Occlusive Diseases	D001157	C14.907.137	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	-	-	-	1
+Arteritis	D001167	C14.907.940.090	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	-	-	-	1
+Arthritis	D001168	C05.550.114	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	-	1	-	1
+"Arthritis, Gouty"	D015210	C05.550.114.423.410	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	-	-	-	1
+"Arthritis, Infectious"	D001170	C01.100	Disease	Infections	Joints	Musculoskeletal System	-	-	-	1
+"Arthritis, Psoriatic"	D015535	C05.116.900.853.625.800.424	Disease	Musculoskeletal Diseases	Skin	Integumentary System	-	-	-	1
+"Arthritis, Rheumatoid"	D001172	C05.550.114.154	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	-	1	1	2
+Asbestosis	D001195	C08.381.483.581.125	Disease	Respiratory Tract Diseases	Lung	Respiratory System	1	-	-	-
+Atherosclerosis	D050197	C14.907.137.126.307	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	-	-	-	6
+Atrial Fibrillation	D001281	C14.280.067.198	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	1	-	1
+Atrial Premature Complexes	D018880	C14.280.067.325.250	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	-	-	1
+Atrioventricular Block	D054537	C14.280.067.558.230	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	-	-	2
+Autonomic Nervous System Diseases	D001342	C10.177	Disease	Nervous System Diseases	Peripheral Nerves	Nervous System	-	-	-	1
+Back Pain	D001416	C23.888.592.612.107	Disease	"Pathological Conditions, Signs and Symptoms"	Unspecified	Unspecified	-	2	-	1
+Barrett Esophagus	D001471	C04.834.154	Disease	Neoplasms	Esophagus	Digestive System	-	-	-	1
+Basal Ganglia Diseases	D001480	C10.228.140.079	Disease	Nervous System Diseases	Unspecified	Unspecified	-	-	-	1
+"Biomarkers, Tumor"	D014408	D23.101.140	Chemical	Chemical	Serum	Fluids and Secretions	-	-	-	1
+Blindness	D001766	C10.597.751.941.162	Disease	Nervous System Diseases	Eye	Sense Organs	1	-	-	1
+Blood Glucose	D001786	D09.947.875.359.448.500	Chemical	Chemical	Serum	Fluids and Secretions	-	-	1	-
+Blood Pressure	D001794	E01.370.600.875.249	Diagnosis	Diagnosis	Blood	Hemic and Immune Systems	-	-	3	-
+Body Mass Index	D015992	E01.370.600.115.100.125	Diagnosis	Diagnosis	Unspecified	Unspecified	-	-	1	-
+Bone Density	D015519	G11.427.100	Phenomena	Phenomena	Bone and Bones	Musculoskeletal System	-	-	7	-
+"Bone Diseases, Metabolic"	D001851	C05.116.198	Disease	Musculoskeletal Diseases	Bone and Bones	Musculoskeletal System	-	1	-	1
+Bone Neoplasm	D001859	C04.588.149	Disease	Neoplasms	Bone and Bones	Musculoskeletal System	-	-	-	1
+Brain	D001921	A08.186.211	Anatomy	Anatomy	Brain	Nervous System	-	-	-	1
+Brain Diseases	D001927	C10.228.140	Disease	Nervous System Diseases	Brain	Nervous System	-	-	-	1
+Brain Ischemia	D002545	C10.228.140.300.150	Disease	Nervous System Diseases	Brain	Nervous System	-	-	-	1
+Brain Neoplasms	D001932	C04.588.614.250.195	Disease	Neoplasms	Brain	Nervous System	1	-	-	1
+Breast	D001940	A01.236	Anatomy	Anatomy	Breast	Body Regions	-	-	-	2
+Breast Diseases	D001941	C17.800.090	Disease	Skin and Connective Tissue Diseases	Breast	Body Regions	-	-	-	1
+Breast Neoplasms	D001943	C04.588.180	Disease	Neoplasms	Breast	Body Regions	1	-	-	5
+Bronchiectasis	D001987	C08.127.384	Disease	Respiratory Tract Diseases	Lung	Respiratory System	-	-	-	1
+Bundle-Branch Block	D002037	C14.280.067.558.323	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	-	-	3
+Bursitis	D002062	C05.550.251	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	-	-	-	1
+Cachexia	D002100	C23.888.144.243.963.500.500	Disease	"Pathological Conditions, Signs and Symptoms"	"Muscle, Skeletal"	Musculoskeletal System	-	-	-	1
+Callosities	D002145	C17.800.428.200	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	-	-	-	1
+"Carcinoma, Basal Cell"	D002280	C04.557.470.200.165	Disease	Neoplasms	Skin	Integumentary System	-	-	-	1
+"Carcinoma, Hepatocellular"	D006528	C04.557.470.200.025.255	Disease	Neoplasms	Liver	Digestive System	-	-	-	2
+"Carcinoma, Non-Small-Cell Lung"	D002289	C04.588.894.797.520.109.220.249	Disease	Neoplasms	Lung	Respiratory System	-	-	-	1
+"Carcinoma, Renal Cell"	D002292	C04.557.470.200.025.390	Disease	Neoplasms	Kidney	Urogenital System	-	-	-	1
+"Carcinoma, Squamous Cell"	D002294	C04.557.470.200.400	Disease	Neoplasms	Skin	Integumentary System	-	-	-	2
+Cardiac Conduction System Disease	D000075224	C14.280.123	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	-	-	1
+Cardiomegaly	D006332	C14.280.195	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	-	-	1
+Cardiomyopathies	D009202	C14.280.238	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	1	-	-	3
+"Cardiomyopathy, Dilated"	D002311	C14.280.195.160	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	-	-	1
+Cardiovascular Diseases	D002318	C14	Disease	Cardiovascular Diseases	Cardiovascular System	Cardiovascular System	1	1	-	4
+Cataract	D002386	C11.510.245	Disease	Eye Diseases	Eye	Sense Organs	1	1	-	2
+Cellulitis	D002481	C01.800.130	Disease	Infections	Skin	Integumentary System	1	-	-	-
+Central Nervous System Neoplasms	D016543	C04.588.614.250	Disease	Neoplasms	Brain	Nervous System	-	-	-	3
+Cerebral Hemorrhage	D002543	C10.228.140.300.535.200	Disease	Nervous System Diseases	Brain	Nervous System	1	-	-	2
+Cerebral Infarction	D002544	C10.228.140.300.150.477.200	Disease	Nervous System Diseases	Brain	Nervous System	-	-	-	1
+Cerebrovascular Disorders	D002561	C10.228.140.300	Disease	Nervous System Diseases	Brain	Nervous System	-	1	-	4
+Cervical Intraepithelial Neoplasia	D018290	C04.557.470.200.240.250	Disease	Neoplasms	Cervix Uteri	Urogenital System	-	-	-	1
+"Cholesterol, HDL"	D008076	D04.210.500.247.808.197.238	Chemical	Chemical	Serum	Fluids and Secretions	-	-	2	-
+"Cholesterol, LDL"	D008078	D04.210.500.247.808.197.244	Chemical	Chemical	Serum	Fluids and Secretions	-	-	2	-
+Chondrocalcinosis	D002805	C05.550.114.264	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	-	-	-	1
+Choroid Diseases	D015862	C11.941.160	Disease	Eye Diseases	Eye	Sense Organs	-	-	-	1
+Cognition	D003071	F02.463.188	Psychiatry	Psychiatry	Brain	Nervous System	-	-	-	1
+Cognitive Dysfunction	D060825	F03.615.250.700	Psychiatry	Psychiatry	Brain	Nervous System	-	1	-	4
+Colonic Diseases	D003108	C06.405.469.158	Disease	Digestive System Diseases	Intestines	Digestive System	-	-	-	1
+Colonic Neoplasms	D003110	C04.588.274.476.411.307.180	Disease	Neoplasms	Colon	Digestive System	1	-	-	1
+Colorectal Neoplasms	D015179	C04.588.274.476.411.307	Disease	Neoplasms	Colon	Digestive System	-	-	-	1
+Connective Tissue Diseases	D003240	C17.300	Disease	Skin and Connective Tissue Diseases	Connective Tissue	Connective Tissue	-	1	-	-
+Corneal Diseases	D003316	C11.204	Disease	Eye Diseases	Eye	Sense Organs	-	-	-	1
+"Corneal Dystrophies, Hereditary"	D003317	C11.204.236	Disease	Eye Diseases	Eye	Sense Organs	-	-	-	2
+Corneal Edema	D015715	C11.204.267	Disease	Eye Diseases	Eye	Sense Organs	-	-	-	1
+Coronary Artery Disease	D003324	C14.280.647.250.260	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	-	-	2
+Coronary Disease	D003327	C14.280.647.250	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	-	1	-
+C-Reactive Protein	D002097	D12.776.034.145	Chemical	Chemical	Serum	Fluids and Secretions	-	-	1	1
+Cysts	D003560	C04.182	Disease	Neoplasms	Kidney	Urogenital System	-	-	-	1
+"Death, Sudden, Cardiac"	D016757	C14.280.383.220	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	-	-	1
+Deglutition Disorders	D003680	C06.405.117.119	Disease	Digestive System Diseases	Esophagus	Digestive System	-	-	-	1
+Dementia	D003704	C10.228.140.380	Disease	Nervous System Diseases	Brain	Nervous System	-	-	-	4
+"Dementia, Vascular"	D015140	C10.228.140.300.400	Disease	Nervous System Diseases	Brain	Nervous System	-	-	-	1
+Depression	D003863	F01.145.126.350	Disease	Behavior and Behavior Mechanisms	Brain	Nervous System	-	1	-	-
+Dermatomycoses	D003881	C01.150.703.302	Disease	Infections	Skin	Integumentary System	1	-	-	-
+Diabetes Complications	D048909	C19.246.099	Disease	Endocrine System Diseases	Serum	Fluids and Secretions	-	-	-	1
+Diabetes Mellitus	D003920	C18.452.394.750	Disease	Nutritional and Metabolic Diseases	Pancreas	Digestive System	-	2	-	1
+"Diabetes Mellitus, Type 2"	D003924	C18.452.394.750.149	Disease	Nutritional and Metabolic Diseases	Pancreas	Digestive System	-	1	-	2
+Diabetic Ketoacidosis	D016883	C18.452.076.176.652.500	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	-	-	-	1
+Diabetic Nephropathies	D003928	C12.777.419.192	Disease	Male Urogenital Diseases	Serum	Fluids and Secretions	-	-	-	2
+Diabetic Retinopathy	D003930	C11.768.257	Disease	Eye Diseases	Serum	Fluids and Secretions	-	-	-	2
+"Diagnostic Tests, Routine"	D003955	E01.370.395	Diagnosis	Diagnosis	Unspecified	Unspecified	-	-	1	-
+Diarrhea	D003967	C23.888.821.214	Disease	"Pathological Conditions, Signs and Symptoms"	Gastrointestinal Tract	Digestive System	1	-	-	-
+Digestive System Neoplasms	D004067	C04.588.274	Disease	Neoplasms	Gastrointestinal Tract	Digestive System	-	-	-	3
+Diverticular Diseases	D000076385	C06.405.205.282	Disease	Digestive System Diseases	Colon	Digestive System	-	-	-	1
+Diverticulitis	D004238	C06.405.205.282.500	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	-	1	-	1
+"Diverticulum, Colon"	D004241	C06.405.205.282.750.500	Disease	Digestive System Diseases	Colon	Digestive System	-	-	-	1
+"Diverticulum, Esophageal"	D004936	C06.405.205.282.750.625	Disease	Digestive System Diseases	Esophagus	Digestive System	-	1	-	1
+Dupuytren Contracture	D004387	C04.557.450.565.590.340.173	Disease	Neoplasms	Connective Tissue	Connective Tissue	-	-	-	2
+Dyskinesias	D020820	C10.228.662.262	Disease	Nervous System Diseases	Unspecified	Unspecified	-	-	-	1
+Ecchymosis	D004438	C15.378.100.452	Disease	Hemic and Lymphatic Diseases	Blood	Hemic and Immune Systems	-	-	-	1
+Embolism and Thrombosis	D016769	C14.907.355	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	-	-	-	3
+Emphysema	D004646	C23.550.325	Disease	"Pathological Conditions, Signs and Symptoms"	Lung	Respiratory System	-	1	-	1
+Encephalitis	D004660	C10.228.140.430	Disease	Nervous System Diseases	Brain	Nervous System	1	-	-	-
+Endocarditis	D004696	C14.280.282	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	1	-	-	1
+Endocrine System Diseases	D004700	C19	Disease	Endocrine System Diseases	Endocrine System	Endocrine System	1	-	-	-
+Endometrial Hyperplasia	D004714	C13.351.500.852.228	Disease	Female Urogenital Diseases and Pregnancy Complications	Endometrium	Urogenital System	-	-	-	1
+Epiretinal Membrane	D019773	C11.768.328	Disease	Eye Diseases	Eye	Sense Organs	-	-	-	1
+Erectile Dysfunction	D007172	C12.294.644.486	Disease	Male Urogenital Diseases	Urogenital System	Urogenital System	-	-	-	1
+Esophageal Neoplasms	D004938	C04.588.274.476.205	Disease	Neoplasms	Esophagus	Digestive System	1	-	-	3
+Essential Hypertension	D000075222	C14.907.489.165	Disease	Cardiovascular Diseases	Blood	Hemic and Immune Systems	-	1	-	1
+Essential Tremor	D020329	C10.228.662.350	Disease	Nervous System Diseases	Brain	Nervous System	-	-	-	1
+Eunuchism	D005058	C19.391.482.293	Disease	Endocrine System Diseases	Testis	Urogenital System	-	-	-	1
+Eyelid Diseases	D005141	C11.338	Disease	Eye Diseases	Eye	Sense Organs	-	1	-	1
+Fasciitis	D005208	C05.321	Disease	Musculoskeletal Diseases	Connective Tissue	Connective Tissue	-	-	-	1
+"Fractures, Bone"	D050723	C26.404	Disease	Wounds and Injuries	Bone and Bones	Musculoskeletal System	-	-	-	4
+"Fractures, Spontaneous"	D005598	C26.404.374	Disease	Wounds and Injuries	Bone and Bones	Musculoskeletal System	-	-	-	2
+Gallbladder Diseases	D005705	C06.130.564	Disease	Digestive System Diseases	Urinary Bladder	Urogenital System	-	1	-	-
+Gallbladder Neoplasms	D005706	C04.588.274.120.401	Disease	Neoplasms	Urinary Bladder	Urogenital System	1	-	-	-
+Gallstones	D042882	C06.130.409.633	Disease	Digestive System Diseases	Bile Ducts	Digestive System	-	1	-	1
+Gangrene	D005734	C23.550.717.427	Disease	"Pathological Conditions, Signs and Symptoms"	Blood	Hemic and Immune Systems	-	-	-	1
+Gastroesophageal Reflux	D005764	C06.405.117.119.500.484	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	-	1	-	-
+Gastrointestinal Diseases	D005767	C06.405	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	-	1	-	-
+Gastrointestinal Hemorrhage	D006471	C06.405.227	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	-	-	-	4
+Gastrointestinal Neoplasms	D005770	C04.588.274.476	Disease	Neoplasms	Gastrointestinal Tract	Digestive System	-	-	-	1
+Gastrointestinal Tract	D041981	A03.556	Anatomy	Digestive System	Gastrointestinal Tract	Digestive System	-	1	-	-
+"Genitalia, Female"	D005836	A05.360.319	Anatomy	Anatomy	Urogenital System	Urogenital System	-	-	-	1
+Giant Cell Arteritis	D013700	C10.114.875.700	Disease	Nervous System Diseases	Blood Vessels	Cardiovascular System	-	-	-	1
+Glaucoma	D005901	C11.525.381	Disease	Eye Diseases	Eye	Sense Organs	1	1	-	1
+"Glaucoma, Angle-Closure"	D015812	C11.525.381.056	Disease	Eye Diseases	Eye	Sense Organs	-	-	-	1
+"Glaucoma, Open-Angle"	D005902	C11.525.381.407	Disease	Eye Diseases	Eye	Sense Organs	-	-	-	2
+Glossalgia	D005926	C07.465.910.280	Disease	Stomatognathic Diseases	Tongue	Digestive System	-	-	-	1
+Glucose	D005947	D09.947.875.359.448	Chemical	Chemical	Serum	Fluids and Secretions	-	-	-	1
+Goiter	D006042	C19.874.283	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	-	-	-	1
+"Goiter, Nodular"	D006044	C19.874.283.501	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	-	-	-	4
+Gout	D006073	C05.550.114.423	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	-	1	-	2
+Graves Disease	D006111	C19.874.283.605	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	-	-	-	1
+Hallux Rigidus	D020859	C05.330.488.310	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	-	-	-	1
+Head and Neck Neoplasms	D006258	C04.588.443	Disease	Neoplasms	Nose	Respiratory System	-	-	-	1
+Hearing Loss	D034381	C09.218.458.341	Disease	Otorhinolaryngologic Diseases	Ear	Sense Organs	-	-	-	1
+"Hearing Loss, Sensorineural"	D006319	C09.218.458.341.887	Disease	Otorhinolaryngologic Diseases	Ear	Sense Organs	1	-	-	1
+Heart Arrest	D006323	C14.280.383	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	-	-	2
+Heart Diseases	D006331	C14.280	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	1	-	2
+Heart Failure	D006333	C14.280.434	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	-	-	3
+Heart Rate	D006339	E01.370.600.875.500	Diagnosis	Diagnosis	Heart	Cardiovascular System	-	-	1	-
+Heart Transplantation	D016027	E04.100.376.475	Diagnosis	Diagnosis	Heart	Cardiovascular System	-	-	-	1
+Heart Valve Diseases	D006349	C14.280.484	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	3	1	-	4
+Heart Valve Prosthesis Implantation	D019918	E04.100.376.485	Diagnosis	Diagnosis	Heart	Cardiovascular System	-	-	-	1
+Hematemesis	D006396	C06.405.227.400	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	-	-	-	1
+Hematuria	D006417	C12.777.934.442	Disease	Male Urogenital Diseases	Urine	Fluids and Secretions	-	-	-	2
+Hemoglobinopathies	D006453	C15.378.420	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	1	-	-	-
+Hemoptysis	D006469	C08.381.348	Disease	Respiratory Tract Diseases	Respiratory System	Respiratory System	-	-	-	1
+Hemorrhage	D006470	C23.550.414	Disease	"Pathological Conditions, Signs and Symptoms"	Unspecified	Unspecified	-	-	-	1
+Hemorrhoids	D006484	C06.405.469.860.401	Disease	Digestive System Diseases	Anal Canal	Digestive System	-	-	-	1
+"Hernia, Hiatal"	D006551	C23.300.707.960.500.467	Disease	"Pathological Conditions, Signs and Symptoms"	Gastrointestinal Tract	Digestive System	-	1	-	-
+"Hernia, Ventral"	D006555	C23.300.707.374.937	Disease	"Pathological Conditions, Signs and Symptoms"	Gastrointestinal Tract	Digestive System	-	1	-	-
+Herpes Zoster	D006562	C01.925.256.466.930.750	Disease	Infections	Unspecified	Unspecified	-	-	-	2
+Hodgkin Disease	D006689	C04.557.386.355	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	1	-	-	-
+Hydrarthrosis	D006833	C05.550.509	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	-	1	-	1
+Hypercholesterolemia	D006937	C18.452.584.500.500.396	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	-	1	-	1
+Hyperkalemia	D006947	C18.452.950.396	Disease	Nutritional and Metabolic Diseases	Urine	Fluids and Secretions	-	-	-	1
+Hypernatremia	D006955	C18.452.950.452	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	-	-	-	1
+Hyperparathyroidism	D006961	C19.642.355	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	-	1	-	2
+Hypertension	D006973	C14.907.489	Disease	Cardiovascular Diseases	Blood	Hemic and Immune Systems	1	1	-	6
+"Hypertension, Renal"	D006977	C12.777.419.331	Disease	Male Urogenital Diseases	Blood	Hemic and Immune Systems	-	-	-	1
+Hypertensive Retinopathy	D058437	C11.768.346	Disease	Eye Diseases	Blood	Hemic and Immune Systems	-	-	-	1
+Hyponatremia	D007010	C18.452.950.620	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	-	-	-	1
+Hypotension	D007022	C14.907.514	Disease	Cardiovascular Diseases	Blood	Hemic and Immune Systems	-	-	-	3
+"Hypotension, Orthostatic"	D007024	C10.177.575.600.450	Disease	Nervous System Diseases	Blood	Hemic and Immune Systems	-	-	-	1
+Hypothyroidism	D007037	C19.874.482	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	-	1	-	-
+Hypoventilation	D007040	C08.618.846.565	Disease	Respiratory Tract Diseases	Respiratory System	Respiratory System	-	-	-	1
+Hypovolemia	D020896	C23.550.455	Disease	"Pathological Conditions, Signs and Symptoms"	Blood	Hemic and Immune Systems	-	-	-	1
+Idiopathic Pulmonary Fibrosis	D054990	C08.381.765.500	Disease	Respiratory Tract Diseases	Lung	Respiratory System	-	-	-	1
+Iliac Aneurysm	D017543	C14.907.055.625	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	-	-	-	1
+Infections	D007239	C01	Disease	Infections	Kidney	Urogenital System	-	1	-	1
+"Infertility, Female"	D007247	C13.351.500.365.700	Disease	Female Urogenital Diseases and Pregnancy Complications	Urogenital System	Urogenital System	-	-	-	1
+"Infertility, Male"	D007248	C12.294.365.700	Disease	Male Urogenital Diseases	Urogenital System	Urogenital System	-	-	-	3
+Inflammatory Bowel Diseases	D015212	C06.405.205.731	Disease	Digestive System Diseases	Gastrointestinal Tract	Digestive System	-	2	-	1
+Intervertebral Disc Degeneration	D055959	C05.116.900.153	Disease	Musculoskeletal Diseases	Spinal Cord	Nervous System	-	1	-	1
+Intervertebral Disc Displacement	D007405	C05.116.900.307	Disease	Musculoskeletal Diseases	Spinal Cord	Nervous System	-	1	-	-
+Intestinal Neoplasms	D007414	C04.588.274.476.411	Disease	Neoplasms	Gastrointestinal Tract	Digestive System	1	-	-	-
+Intestinal Pseudo-Obstruction	D007418	C06.405.469.531.492.500	Disease	Digestive System Diseases	Intestines	Digestive System	1	-	-	1
+Intracranial Aneurysm	D002532	C10.228.140.300.510.600	Disease	Nervous System Diseases	Brain	Nervous System	-	-	-	2
+Intracranial Arteriosclerosis	D002537	C10.228.140.300.510.800	Disease	Nervous System Diseases	Brain	Nervous System	-	-	-	1
+Intracranial Hemorrhages	D020300	C10.228.140.300.535	Disease	Nervous System Diseases	Brain	Nervous System	-	-	-	2
+"Ischemic Attack, Transient"	D002546	C10.228.140.300.150.836	Disease	Nervous System Diseases	Brain	Nervous System	-	-	-	1
+Joint Diseases	D007592	C05.550	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	-	1	-	2
+Keratoconjunctivitis Sicca	D007638	C11.187.183.394.500	Disease	Eye Diseases	Eye	Sense Organs	-	-	-	1
+"Keratosis, Actinic"	D055623	C04.834.450	Disease	Neoplasms	Skin	Integumentary System	-	-	-	1
+Kidney Calculi	D007669	C12.777.419.600.500	Disease	Male Urogenital Diseases	Kidney	Urogenital System	-	1	-	4
+Kidney Diseases	D007674	C12.777.419	Disease	Male Urogenital Diseases	Kidney	Urogenital System	-	1	-	1
+"Kidney Failure, Chronic"	D007676	C12.777.419.780.750.500	Disease	Male Urogenital Diseases	Kidney	Urogenital System	-	-	-	2
+Kidney Neoplasms	D007680	C04.588.945.947.535	Disease	Neoplasms	Kidney	Urogenital System	1	-	-	3
+Kidney Transplantation	D016030	E02.870.500	Diagnosis	Diagnosis	Kidney	Urogenital System	-	-	1	-
+Labyrinthitis	D007762	C09.218.568.558	Disease	Otorhinolaryngologic Diseases	Ear	Sense Organs	-	-	-	1
+Laryngeal Neoplasms	D007822	C04.588.443.665.481	Disease	Neoplasms	Respiratory System	Respiratory System	1	-	-	-
+Leg Ulcer	D007871	C17.800.893.592	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	-	-	-	1
+Leukemia	D007938	C04.557.337	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	1	-	-	-
+"Leukemia, Lymphocytic, Chronic, B-Cell"	D015451	C04.557.337.428.080.125	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	1	-	-	2
+"Leukemia, Lymphoid"	D007945	C04.557.337.428	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	1	-	-	1
+"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"	D015464	C04.557.337.539.250	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	1	-	-	-
+"Leukemia, Myeloid, Acute"	D015470	C04.557.337.539.275	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	1	-	-	2
+Lipid Metabolism Disorders	D052439	C18.452.584	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	-	-	-	2
+Lipoma	D008067	C04.557.450.550.400	Disease	Neoplasms	Adipose Tissue	Connective Tissue	-	-	-	1
+Liver Cirrhosis	D008103	C06.552.630	Disease	Digestive System Diseases	Liver	Digestive System	1	-	-	-
+Liver Neoplasms	D008113	C04.588.274.623	Disease	Neoplasms	Liver	Digestive System	3	-	-	2
+Longevity	D008136	G07.345.124.519	Phenomena	Phenomena	Unspecified	Unspecified	-	-	1	-
+"Lung Diseases, Interstitial"	D017563	C08.381.483	Disease	Respiratory Tract Diseases	Lung	Respiratory System	1	-	-	-
+Lung Neoplasms	D008175	C04.588.894.797.520	Disease	Neoplasms	Lung	Respiratory System	1	-	-	4
+"Lupus Erythematosus, Systemic"	D008180	C17.300.480	Disease	Skin and Connective Tissue Diseases	Unspecified	Unspecified	-	-	-	1
+Lupus Nephritis	D008181	C12.777.419.570.363.680	Disease	Male Urogenital Diseases	Kidney	Urogenital System	-	-	-	1
+Lymphoma	D008223	C04.557.386	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	-	-	-	2
+"Lymphoma, Follicular"	D008224	C04.557.386.480.350	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	-	-	-	1
+"Lymphoma, Non-Hodgkin"	D008228	C04.557.386.480	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	1	-	-	4
+Macular Degeneration	D008268	C11.768.585.439	Disease	Eye Diseases	Eye	Sense Organs	1	-	-	5
+Magnesium	D008274	D01.268.552.437	Chemical	Chemical	Serum	Fluids and Secretions	-	-	-	1
+Mammography	D008327	E01.370.350.700.500	Diagnosis	Diagnosis	Breast	Body Regions	-	-	-	2
+Mastitis	D008413	C13.703.844.603	Disease	Female Urogenital Diseases and Pregnancy Complications	Breast	Body Regions	-	-	-	1
+Mean Platelet Volume	D063847	E01.370.225.625.625.392	Diagnosis	Diagnosis	Blood Cells	Hemic and Immune Systems	-	-	1	-
+Melanoma	D008545	C04.557.465.625.650.510	Disease	Neoplasms	Skin	Integumentary System	1	-	-	2
+Memory Disorders	D008569	C10.597.606.525	Disease	Nervous System Diseases	Brain	Nervous System	-	-	-	1
+Meniere Disease	D008575	C09.218.568.217.500	Disease	Otorhinolaryngologic Diseases	Ear	Sense Organs	-	-	-	1
+"Meningitis, Pneumococcal"	D008586	C01.150.252.223.500.875	Disease	Infections	Brain	Nervous System	1	-	-	-
+Mesothelioma	D008654	C04.557.470.035.510	Disease	Neoplasms	Epithelium	Epithelium	1	-	-	-
+Metabolic Diseases	D008659	C18.452	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	-	-	-	1
+Metabolic Syndrome	D024821	C18.452.394.968.500.570	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	-	-	-	2
+Monoclonal Gammopathy of Undetermined Significance	D008998	C15.378.147.542.640	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	-	-	-	1
+Motor Neuron Disease	D016472	C10.574.562	Disease	Nervous System Diseases	Motor Neurons	Nervous System	1	-	-	-
+Mouth Neoplasms	D009062	C04.588.443.591	Disease	Neoplasms	Mouth	Body Regions	1	-	-	-
+Multiple Myeloma	D009101	C04.557.595.500	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	1	-	-	1
+Muscular Atrophy	D009133	C10.597.613.612	Disease	Nervous System Diseases	"Muscle, Skeletal"	Musculoskeletal System	-	-	-	1
+Musculoskeletal System	D009141	A02	Anatomy	Anatomy	Unspecified	Unspecified	-	-	-	1
+Myeloproliferative Disorders	D009196	C15.378.190.636	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	1	-	-	1
+Myocardial Infarction	D009203	C14.280.647.500	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	1	-	1
+Myocardial Ischemia	D017202	C14.280.647	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	1	-	-	3
+Myocarditis	D009205	C14.280.238.625	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	1	-	-	-
+Myopia	D009216	C11.744.636	Disease	Eye Diseases	Eye	Sense Organs	-	-	1	-
+"Myopia, Degenerative"	D047728	C11.744.636.500	Disease	Eye Diseases	Eye	Sense Organs	-	-	1	-
+Nasal Polyps	D009298	C08.460.572	Disease	Respiratory Tract Diseases	Nose	Respiratory System	-	-	-	1
+Neoplasms	D009369	C04	Disease	Neoplasms	Unspecified	Unspecified	2	-	-	3
+"Neoplasms, Second Primary"	D016609	C04.692	Disease	Neoplasms	Unspecified	Unspecified	-	-	-	1
+Nephritis	D009393	C12.777.419.570	Disease	Male Urogenital Diseases	Kidney	Urogenital System	-	-	-	4
+Nephrotic Syndrome	D009404	C12.777.419.630.643	Disease	Male Urogenital Diseases	Kidney	Urogenital System	-	-	-	1
+Neurodegenerative Diseases	D019636	C10.574	Disease	Nervous System Diseases	Spinal Cord	Nervous System	-	1	-	1
+Neutropenia	D009503	C15.378.553.546.184.564	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	-	-	-	1
+Obesity	D009765	C18.654.726.500	Disease	Nutritional and Metabolic Diseases	Unspecified	Unspecified	-	-	-	1
+"Obesity, Morbid"	D009767	C18.654.726.500.700	Disease	Nutritional and Metabolic Diseases	Unspecified	Unspecified	-	-	-	1
+Osteitis Deformans	D010001	C05.116.692	Disease	Musculoskeletal Diseases	Bone and Bones	Musculoskeletal System	-	-	-	1
+Osteoarthritis	D010003	C05.550.114.606	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	-	1	1	7
+Osteoporosis	D010024	C05.116.198.579	Disease	Musculoskeletal Diseases	Bone and Bones	Musculoskeletal System	-	1	-	3
+Ovarian Neoplasms	D010051	C04.588.322.455	Disease	Neoplasms	Ovary	Urogenital System	1	-	-	3
+Overweight	D050177	C23.888.144.699	Disease	"Pathological Conditions, Signs and Symptoms"	Unspecified	Unspecified	-	-	-	2
+Pancreatic Cyst	D010181	C04.182.640	Disease	Neoplasms	Pancreas	Digestive System	-	-	-	1
+Pancreatic Neoplasms	D010190	C04.588.274.761	Disease	Neoplasms	Pancreas	Digestive System	1	-	-	2
+"Pancreatitis, Chronic"	D050500	C06.689.750.830	Disease	Digestive System Diseases	Pancreas	Digestive System	1	-	-	1
+Paraproteinemias	D010265	C15.378.147.780	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	-	-	-	1
+Parkinson Disease	D010300	C10.228.140.079.862.500	Disease	Nervous System Diseases	Brain	Nervous System	1	-	-	1
+Peptic Ulcer	D010437	C06.405.469.275.800	Disease	Digestive System Diseases	Stomach	Digestive System	1	-	-	-
+Peripheral Arterial Disease	D058729	C14.907.137.126.307.500	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	1	-	-	1
+Peripheral Nervous System Diseases	D010523	C10.668.829	Disease	Nervous System Diseases	Peripheral Nerves	Nervous System	-	1	-	1
+Peripheral Vascular Diseases	D016491	C14.907.617	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	-	-	-	3
+Phlebitis	D010689	C14.907.617.718	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	-	-	-	2
+Phosphorus Metabolism Disorders	D010760	C18.452.750	Disease	Nutritional and Metabolic Diseases	Unspecified	Unspecified	-	-	-	1
+Pleurisy	D010998	C01.748.582	Disease	Infections	Thorax	Body Regions	-	-	-	1
+Pneumoconiosis	D011009	C08.381.483.581	Disease	Respiratory Tract Diseases	Lung	Respiratory System	1	-	-	-
+Pneumonia	D011014	C01.748.610	Disease	Infections	Lung	Respiratory System	-	-	1	-
+Pneumothorax	D011030	C08.528.778	Disease	Respiratory Tract Diseases	Lung	Respiratory System	-	-	-	1
+Polycythemia Vera	D011087	C04.588.448.200.500	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	-	-	-	2
+Polymyalgia Rheumatica	D011111	C05.651.742	Disease	Musculoskeletal Diseases	Joints	Musculoskeletal System	-	-	-	1
+Polymyositis	D017285	C05.651.594.819	Disease	Musculoskeletal Diseases	Connective Tissue	Connective Tissue	-	-	-	1
+Polyneuropathies	D011115	C10.668.829.800	Disease	Nervous System Diseases	Peripheral Nerves	Nervous System	-	-	-	2
+Polyps	D011127	C23.300.825	Disease	"Pathological Conditions, Signs and Symptoms"	Anal Canal	Digestive System	-	-	-	1
+Polyuria	D011141	C12.777.934.616	Disease	Male Urogenital Diseases	Urine	Fluids and Secretions	-	-	-	1
+Postmenopause	D017698	G08.686.157.500.625	Phenomena	Phenomena	Ovary	Urogenital System	-	-	-	1
+Postoperative Complications	D011183	C23.550.767	Disease	"Pathological Conditions, Signs and Symptoms"	Unspecified	Unspecified	-	-	-	1
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	D054198	C04.557.337.428.600	Disease	Neoplasms	Blood Cells	Hemic and Immune Systems	-	-	-	1
+Prediabetic State	D011236	C18.452.394.750.774	Disease	Nutritional and Metabolic Diseases	Serum	Fluids and Secretions	-	-	-	1
+Presbycusis	D011304	C09.218.458.341.887.772	Disease	Otorhinolaryngologic Diseases	Ear	Sense Organs	-	-	-	1
+Pressure Ulcer	D003668	C17.800.893.665	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	1	-	-	-
+Prostate-Specific Antigen	D017430	D08.811.277.656.300.760.442.750	Chemical	Chemical	Prostate	Urogenital System	-	-	-	1
+Prostatic Diseases	D011469	C12.294.565	Disease	Male Urogenital Diseases	Prostate	Urogenital System	-	-	-	1
+Prostatic Hyperplasia	D011470	C12.294.565.500	Disease	Male Urogenital Diseases	Prostate	Urogenital System	-	-	-	2
+Prostatic Neoplasms	D011471	C04.588.945.440.770	Disease	Neoplasms	Prostate	Urogenital System	1	-	-	2
+Prostatitis	D011472	C12.294.565.750	Disease	Male Urogenital Diseases	Prostate	Urogenital System	-	-	-	2
+Proteinuria	D011507	C12.777.934.734	Disease	Male Urogenital Diseases	Urine	Fluids and Secretions	-	-	-	1
+Prurigo	D011536	C17.800.674	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	-	-	-	1
+Psoriasis	D011565	C17.800.859.675	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	-	-	-	3
+"Pulmonary Disease, Chronic Obstructive"	D029424	C08.381.495.389	Disease	Respiratory Tract Diseases	Lung	Respiratory System	1	-	-	2
+Pulmonary Embolism	D011655	C08.381.746	Disease	Respiratory Tract Diseases	Blood Vessels	Cardiovascular System	-	1	-	-
+Pyoderma	D011711	C17.800.695	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	1	-	-	-
+Radiculopathy	D011843	C10.668.829.820	Disease	Nervous System Diseases	Spinal Cord	Nervous System	-	-	-	1
+Refractive Errors	D012030	C11.744	Disease	Eye Diseases	Eye	Sense Organs	1	-	-	-
+Renal Insufficiency	D051437	C12.777.419.780	Disease	Male Urogenital Diseases	Kidney	Urogenital System	-	1	-	4
+"Renal Insufficiency, Chronic"	D051436	C12.777.419.780.750	Disease	Male Urogenital Diseases	Kidney	Urogenital System	-	-	-	2
+Respiratory Insufficiency	D012131	C08.618.846	Disease	Respiratory Tract Diseases	Lung	Respiratory System	-	1	-	3
+Respiratory Physiological Phenomena	D012143	G09.772	Phenomena	Phenomena	Lung	Respiratory System	-	-	1	-
+Respiratory Tract Infections	D012141	C01.748	Disease	Infections	Respiratory System	Respiratory System	1	-	-	-
+Respiratory Tract Neoplasms	D012142	C04.588.894.797	Disease	Neoplasms	Lung	Respiratory System	-	-	-	1
+Retinal Degeneration	D012162	C11.270.612	Disease	Eye Diseases	Eye	Sense Organs	-	-	-	1
+Retinal Drusen	D015593	C11.768.585.585	Disease	Eye Diseases	Eye	Sense Organs	-	1	-	1
+Rheumatic Heart Disease	D012214	C01.150.252.410.890.731.649	Disease	Infections	Heart	Cardiovascular System	-	-	-	2
+Sciatica	D012585	C10.668.829.500.675.800	Disease	Nervous System Diseases	Spinal Cord	Nervous System	-	1	-	-
+Scleritis	D015423	C11.790.500	Disease	Eye Diseases	Eye	Sense Organs	-	-	-	1
+Sensation Disorders	D012678	C10.597.751	Disease	Nervous System Diseases	Sense Organs	Sense Organs	1	-	-	-
+Sick Sinus Syndrome	D012804	C14.280.067.093.249	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	-	-	1
+Silicosis	D012829	C08.381.483.581.760	Disease	Respiratory Tract Diseases	Lung	Respiratory System	1	-	-	-
+Sjogren's Syndrome	D012859	C05.550.114.154.774	Disease	Musculoskeletal Diseases	Salivary Glands	Digestive System	-	-	-	2
+Skin Diseases	D012871	C17.800	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	1	-	-	-
+"Skin Diseases, Vesiculobullous"	D012872	C17.800.865	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	-	-	-	1
+Skin Neoplasms	D012878	C04.588.805	Disease	Neoplasms	Skin	Integumentary System	2	-	-	5
+Skin Ulcer	D012883	C17.800.893	Disease	Skin and Connective Tissue Diseases	Skin	Integumentary System	-	-	-	1
+Sleep Apnea Syndromes	D012891	C08.618.085.852	Disease	Respiratory Tract Diseases	Respiratory System	Respiratory System	-	-	-	2
+"Sleep Apnea, Obstructive"	D020181	C08.618.085.852.850	Disease	Respiratory Tract Diseases	Respiratory System	Respiratory System	-	-	-	1
+Small Cell Lung Carcinoma	D055752	C04.588.894.797.520.109.220.624	Disease	Neoplasms	Lung	Respiratory System	-	-	-	1
+Spinal Stenosis	D013130	C05.116.900.825	Disease	Musculoskeletal Diseases	Spinal Cord	Nervous System	-	-	-	2
+Spondylarthritis	D025241	C05.116.900.853.625	Disease	Musculoskeletal Diseases	Spinal Cord	Nervous System	-	1	-	-
+Spondylosis	D055009	C05.116.900.938	Disease	Musculoskeletal Diseases	Spinal Cord	Nervous System	-	1	-	1
+Stomach Diseases	D013272	C06.405.748	Disease	Digestive System Diseases	Stomach	Digestive System	-	1	-	-
+Stomach Neoplasms	D013274	C04.588.274.476.767	Disease	Neoplasms	Stomach	Digestive System	1	-	-	1
+Stomach Ulcer	D013276	C06.405.469.275.800.849	Disease	Digestive System Diseases	Stomach	Digestive System	-	1	-	-
+Stroke	D020521	C10.228.140.300.775	Disease	Nervous System Diseases	Brain	Nervous System	1	1	-	2
+Surgical Wound	D000072836	C26.859	Disease	Wounds and Injuries	Unspecified	Unspecified	-	-	-	1
+Synovial Membrane	D013583	A02.835.583.443.800	Anatomy	Anatomy	Joints	Musculoskeletal System	-	-	-	1
+Tachycardia	D013610	C14.280.067.845	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	-	-	1
+tau Proteins	D016875	D12.776.220.600.450.510	Disease	"Amino Acids, Peptides, and Proteins"	Brain	Nervous System	-	-	-	1
+Telomere	D016615	G05.360.160.845	Phenomena	Phenomena	Unspecified	Unspecified	-	-	1	-
+Testicular Diseases	D013733	C12.294.829	Disease	Male Urogenital Diseases	Testis	Urogenital System	-	-	-	1
+Thorax	D013909	A01.923.761	Anatomy	Anatomy	Thorax	Body Regions	-	-	-	1
+Thrombocytopenia	D013921	C15.378.140.855	Disease	Hemic and Lymphatic Diseases	Blood Cells	Hemic and Immune Systems	-	-	-	1
+Thyroid Diseases	D013959	C19.874	Disease	Endocrine System Diseases	Thyroid Gland	Endocrine System	-	1	-	-
+Thyroid Neoplasms	D013964	C04.588.322.894	Disease	Neoplasms	Thyroid Gland	Endocrine System	1	-	-	2
+Tietze's Syndrome	D013991	C05.182.790	Disease	Musculoskeletal Diseases	Thorax	Body Regions	-	-	-	1
+Tinnitus	D014012	C09.218.458.670	Disease	Otorhinolaryngologic Diseases	Ear	Sense Organs	-	-	-	1
+Trachoma	D014141	C01.150.252.289.225.800	Disease	Infections	Eye	Sense Organs	1	-	-	-
+Trigeminal Nerve Diseases	D020433	C07.465.299.625.500	Disease	Stomatognathic Diseases	Peripheral Nerves	Nervous System	-	-	-	1
+Triglycerides	D014280	D10.351.801	Chemical	Chemical	Serum	Fluids and Secretions	-	-	2	-
+Ulcer	D014456	C23.550.891	Disease	"Pathological Conditions, Signs and Symptoms"	Skin	Integumentary System	-	-	-	1
+Ureteral Calculi	D014514	C12.777.725.938.500	Disease	Male Urogenital Diseases	Ureter	Urogenital System	-	-	-	2
+Uric Acid	D014527	D03.132.960.877	Chemical	Chemical	Serum	Fluids and Secretions	-	-	2	-
+Urinary Bladder Neck Obstruction	D001748	C12.777.767.700.962	Disease	Male Urogenital Diseases	Urinary Bladder	Urogenital System	-	1	-	1
+Urinary Bladder Neoplasm	D001749	C04.588.945.947.960	Disease	Neoplasms	Urinary Bladder	Urogenital System	1	-	-	3
+Urinary Incontinence	D014549	C12.777.934.852	Disease	Male Urogenital Diseases	Ureter	Urogenital System	-	-	-	1
+"Urinary Incontinence, Stress"	D014550	C12.777.934.852.249	Disease	Male Urogenital Diseases	Ureter	Urogenital System	-	-	-	1
+Uterine Cervical Neoplasms	D002583	C04.588.945.418.948.850	Disease	Neoplasms	Cervix Uteri	Urogenital System	-	-	-	3
+Uterine Neoplasms	D014594	C04.588.945.418.948	Disease	Neoplasms	Uterine	Urogenital System	1	-	-	-
+Uterine Prolapse	D014596	C13.351.500.852.833	Disease	Female Urogenital Diseases and Pregnancy Complications	Uterine	Urogenital System	-	-	-	1
+Varicose Veins	D014648	C14.907.927	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	-	-	-	3
+Vascular Diseases	D014652	C14.907	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	1	-	-	2
+Venous Insufficiency	D014689	C14.907.952	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	-	-	-	1
+Venous Thromboembolism	D054556	C14.907.355.590.700	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	-	1	-	1
+Venous Thrombosis	D020246	C14.907.355.830.925	Disease	Cardiovascular Diseases	Blood Vessels	Cardiovascular System	-	1	-	1
+Ventricular Fibrillation	D014693	C14.280.067.922	Disease	Cardiovascular Diseases	Heart	Cardiovascular System	-	-	-	1
+Vestibular Diseases	D015837	C09.218.568.900	Disease	Otorhinolaryngologic Diseases	Ear	Sense Organs	-	1	-	-
+Weight Loss	D015431	C23.888.144.243.963	Disease	"Pathological Conditions, Signs and Symptoms"	Unspecified	Unspecified	-	-	-	1
+Wet Macular Degeneration	D057135	C11.768.585.439.622	Disease	Eye Diseases	Eye	Sense Organs	-	-	-	2
+Wound Infection	D014946	C01.947	Disease	Infections	Unspecified	Unspecified	-	-	-	1
