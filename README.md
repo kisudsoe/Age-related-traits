@@ -16,6 +16,95 @@ Johnson 2015 - Fig 1. Common pathways in aging and age-related disease.
 
 
 
+## Summary statistics
+
+This resources includes 623 ARDs and ARTs with 365 MeSH terms.
+
+
+
+Table 1. Count of MeSH by studies
+
+| Study         | Count of MeSH term |
+| ------------- | ------------------ |
+| Kim 2021      | 463                |
+| Chang 2019    | 81                 |
+| Donertas 2020 | 69                 |
+| Johnson 2015  | 36                 |
+| Grand  Total  | 649                |
+
+
+
+**Table 2. Count of MeSH by categories**
+
+| MeSH category   | Count of MeSH term |
+| --------------- | ------------------ |
+| Disease         | 329                |
+| Chemical        | 11                 |
+| Diagnosis       | 9                  |
+| Anatomy         | 8                  |
+| Phenomena       | 5                  |
+| Psychiatry      | 3                  |
+| **Grand Total** | **365**            |
+
+
+
+**Table 3. Count of MeSH by groups**
+
+| MeSH group                                              | Count of MeSH term |
+| ------------------------------------------------------- | ------------------ |
+| Neoplasms                                               | 57                 |
+| Cardiovascular Diseases                                 | 46                 |
+| Nervous System Diseases                                 | 32                 |
+| Male Urogenital Diseases                                | 24                 |
+| Musculoskeletal Diseases                                | 24                 |
+| Eye Diseases                                            | 21                 |
+| Digestive System Diseases                               | 20                 |
+| Respiratory Tract Diseases                              | 17                 |
+| Pathological Conditions, Signs  and Symptoms            | 14                 |
+| Nutritional and Metabolic  Diseases                     | 14                 |
+| Skin and Connective Tissue  Diseases                    | 12                 |
+| Infections                                              | 12                 |
+| Chemical                                                | 11                 |
+| Endocrine System Diseases                               | 9                  |
+| Diagnosis                                               | 9                  |
+| Hemic and Lymphatic Diseases                            | 8                  |
+| Anatomy                                                 | 7                  |
+| Otorhinolaryngologic Diseases                           | 7                  |
+| Phenomena                                               | 5                  |
+| Female Urogenital Diseases and  Pregnancy Complications | 4                  |
+| Wounds and Injuries                                     | 3                  |
+| Psychiatry                                              | 3                  |
+| Amino Acids, Peptides, and  Proteins                    | 2                  |
+| Stomatognathic Diseases                                 | 2                  |
+| Behavior and Behavior  Mechanisms                       | 1                  |
+| Digestive System                                        | 1                  |
+| **Grand Total**                                         | **365**            |
+
+
+
+**Table 4. Count of MeSH by anatomy categories**
+
+| Anatomy category         | Count of MeSH term |
+| ------------------------ | ------------------ |
+| Cardiovascular  System   | 49                 |
+| Nervous System           | 41                 |
+| Digestive System         | 40                 |
+| Urogenital System        | 39                 |
+| Hemic and Immune Systems | 30                 |
+| Sense Organs             | 29                 |
+| Respiratory System       | 27                 |
+| Fluids and Secretions    | 25                 |
+| Musculoskeletal System   | 23                 |
+| Unspecified              | 21                 |
+| Integumentary System     | 18                 |
+| Body Regions             | 9                  |
+| Endocrine System         | 8                  |
+| Connective Tissue        | 5                  |
+| Epithelium               | 1                  |
+| **Grand Total**          | **365**            |
+
+
+
 ## Download
 
 * `ARD.tsv`: Merged table for ARDs and ARTs by studies [[Download]](https://github.com/kisudsoe/ARD/blob/main/ARD.tsv)
