@@ -22,7 +22,7 @@ This resources includes 623 ARDs and ARTs with 365 MeSH terms.
 
 
 
-Table 1. Count of MeSH by studies
+**Table 1. Count of MeSH by studies**
 
 | Study         | Count of MeSH term |
 | ------------- | ------------------ |
