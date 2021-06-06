@@ -1,3 +1,7 @@
+Last update `6/5/2021`
+
+
+
 # Age-related traits
 
 This is a repository for age-related disease (ARD) and trait (ART) set.
@@ -9,6 +13,14 @@ This is a repository for age-related disease (ARD) and trait (ART) set.
 ![Johnson 2015 - Fig 1](https://onlinelibrary.wiley.com/cms/asset/7ad7494e-2143-4bf8-a692-47ae8e8055d1/acel12362-fig-0001-m.png)
 
 Johnson 2015 - Fig 1. Common pathways in aging and age-related disease.
+
+
+
+## Download
+
+* `ARD.tsv`: Merged table for ARDs and ARTs by studies [[Download]](https://github.com/kisudsoe/ARD/blob/main/ARD.tsv)
+* `ARD_MeSH.tsv`: Pivot table for unique MeSH terms [[Download]](https://github.com/kisudsoe/ARD/blob/main/ARD_MeSH.tsv)
+* `ARD-v4.xlsx`: Original working excel file
 
 
 
