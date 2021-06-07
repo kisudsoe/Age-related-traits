@@ -18,19 +18,41 @@ Johnson 2015 - Fig 1. Common pathways in aging and age-related disease.
 
 ## Summary statistics
 
-This resources includes 623 ARDs and ARTs with 365 MeSH terms.
+This resources collectively includes 623 ARDs and ARTs mapped with 365 MeSH terms. Below 15 traits were excluded from the original list, because 8 traits from Chang 2019 and 7 traits from Donertas 2020 were irrelevant (e.g., 2 congenital diseases, 8 injuries, and a trauma) or unclear (5 traits).
+
+
+
+**Table S1. 15 excluded traits**
+
+| Study         | Trait                                          | Reason for exclusion |
+| ------------- | ---------------------------------------------- | -------------------- |
+| Chang 2019    | Congenital musculoskeletal and  limb anomalies | Congenital disease   |
+| Chang 2019    | Digestive congenital anomalies                 | Congenital disease   |
+| Chang 2019    | Drowning                                       | Injury               |
+| Chang 2019    | Environmental heat and cold exposure           | Injury               |
+| Chang 2019    | Falls                                          | Injury               |
+| Chang 2019    | Foreign body in other body part                | Injury               |
+| Chang 2019    | Other transport injuries                       | Injury               |
+| Chang 2019    | Other unintentional injuries                   | Injury               |
+| Donertas 2020 | Haematology                                    | Unclear trait        |
+| Donertas 2020 | Liver/biliary/pancreas problem                 | Unclear trait        |
+| Donertas 2020 | Muscle or soft tissue injuries                 | Injury               |
+| Donertas 2020 | Muscle/soft tissue problem                     | Unclear trait        |
+| Donertas 2020 | Musculoskeletal/trauma                         | trauma               |
+| Donertas 2020 | Neck problem/injury                            | Injury               |
+| Donertas 2020 | Neurology/eye/psychiatry                       | Unclear trait        |
 
 
 
 **Table 1. Count of MeSH by studies**
 
-| Study         | Count of MeSH term |
-| ------------- | ------------------ |
-| Kim 2021      | 463                |
-| Chang 2019    | 81                 |
-| Donertas 2020 | 69                 |
-| Johnson 2015  | 36                 |
-| Grand  Total  | 649                |
+| Study            | Count of ARTs |
+| ---------------- | ------------- |
+| Kim 2021         | 463           |
+| Chang 2019       | 81            |
+| Donertas 2021    | 69            |
+| Johnson 2015     | 36            |
+| **Grand  Total** | **649**       |
 
 
 
@@ -120,7 +142,7 @@ If you use this resource, please cite below all reference.
 | Author        | Cite                                                         |
 | ------------- | ------------------------------------------------------------ |
 | Kim 2021      | Kim, Seung-Soo, et al. "A compendium of age-related PheWAS and GWAS traits for human genetic association studies, their networks and genetic correlations." *Frontiers in Genetics* 12 (2021): 842. Doi: [10.3389/fgene.2021.680560](https://doi.org/10.3389/fgene.2021.680560) |
-| Donertas 2020 | Dönertaş, Handan Melike, et al. "Common genetic associations between age-related diseases." *Nature Aging* 1.4 (2021): 400-412. Doi: [10.1038/s43587-021-00051-5](https://doi.org/10.1038/s43587-021-00051-5) |
+| Donertas 2021 | Dönertaş, Handan Melike, et al. "Common genetic associations between age-related diseases." *Nature Aging* 1.4 (2021): 400-412. Doi: [10.1038/s43587-021-00051-5](https://doi.org/10.1038/s43587-021-00051-5) |
 | Chang 2019    | Chang, Angela Y., et al. "Measuring population ageing: an analysis of the global burden of disease study 2017." *The Lancet Public Health* 4.3 (2019): e159-e167. Doi: [10.1016/S2468-2667(19)30019-2](https://doi.org/10.1016/S2468-2667(19)30019-2) |
 | Johnson 2015  | Johnson, Simon C., et al. "Genetic evidence for common pathways in human age‐related diseases." *Aging cell* 14.5 (2015): 809-817. Doi: [10.1111/acel.12362](https://doi.org/10.1111/acel.12362) |
 
