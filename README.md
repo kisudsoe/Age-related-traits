@@ -131,7 +131,7 @@ This resources collectively includes 623 ARDs and ARTs mapped with 365 MeSH term
 
 * `ARD.tsv`: Merged table for ARDs and ARTs by studies [[Download]](https://github.com/kisudsoe/ARD/blob/main/ARD.tsv)
 * `ARD_MeSH.tsv`: Pivot table for unique MeSH terms [[Download]](https://github.com/kisudsoe/ARD/blob/main/ARD_MeSH.tsv)
-* `ARD-v4.xlsx`: Original working excel file
+* `ARD-v4.xlsx`: Original working excel file [[Download]](https://github.com/kisudsoe/Age-related-traits/blob/main/ARD-v4.xlsx)
 
 
 
