@@ -7,13 +7,20 @@ Last update `6/5/2021`
 This is a repository for age-related disease (ARD) and trait (ART) set.
 
 
-
 ## Introduction
 
-![Johnson 2015 - Fig 1](https://onlinelibrary.wiley.com/cms/asset/7ad7494e-2143-4bf8-a692-47ae8e8055d1/acel12362-fig-0001-m.png)
+<img src='https://images.squarespace-cdn.com/content/v1/6282a1a906845279cb747027/f4d0ec3e-c8a2-4cf4-9af0-f4259ae99da3/Geroscience+hypothesis+v1.2.png' width=500px></img>
 
-Johnson 2015 - Fig 1. Common pathways in aging and age-related disease.
+Fig. Aging is the single greatest risk factor for age-related disease, and it is well established that conserved genetic pathways of aging impact multiple age-related pathologies in model organisms, but the role of conserved pathways of aging in human age-related disease is unclear.
 
+
+## Translation of Trait Terms to MeSH
+
+The MeSH metadata8 provides a standardized vocabulary of medical terms with hierarchical categories, including biomedical information, including diseases, anatomy, chemicals and drugs, phenomena and processes, etc. (Lowe and Barnett, 1994). The 463 ARTs were queried to both the ‘‘Search’’9 and ‘‘MeSH on Demand’’10 functions on the MeSH webpage. The ART-MeSH term pairs are equivalent 1-to-1 matches with the following 4 non-equivalent pair instances;
+- (1) some specific traits with no equivalent MeSH terms are mapped to parental MeSH terms (e.g., “Fracture of hand or wrist” mapped to “fracture” in MeSH terms);
+- (2) some non-disease ARTs with no equivalent MeSH terms are alternatively mapped to MeSH anatomy, chemical, diagnosis, or phenomena terms (e.g., “Abnormal chest sounds” and “Stiffness of joint” mapped to “thorax” and “ankle joint” in MeSH terms, respectively);
+- (3) co-morbidity traits with a common cause are mapped to the causal MeSH disease (e.g., “Hypertensive heart and/or renal disease” mapped to “hypertension” in MeSH terms); and
+- (4) some ambiguous co-morbidity traits are mapped to one of those equivalent MeSH disease terms (e.g., “Cardiac arrest & ventricular fibrillation” mapped to “heart arrest” in MeSH terms). The ARTs were also independently mapped to relative MeSH anatomy terms by a 1-to-1 match. Some co-morbidity traits are mapped to one selected disease tissue (e.g., “cancer of kidney and urinary organs” mapped to “kidney” in MeSH terms).
 
 
 ## Summary statistics
